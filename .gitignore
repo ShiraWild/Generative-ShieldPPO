@@ -1,0 +1,14 @@
+*.pyc
+trainlogs/*
+.venv
+models/**
+*.pkl
+.idea/
+*.log
+*.pickle
+samples_pickles/**
+ray_results/**
+draft_scripts/**
+# csv files for predictions_costs
+*.csv
+*.pth
