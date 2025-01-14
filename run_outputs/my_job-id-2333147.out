@@ -1,0 +1,22 @@
+SLURM_JOBID=2333147
+SLURM_JOB_NODELIST=cs-cpu-04
+Device is set up to cpu
+Seed is set to 0
+Logging to models/ppo_run/logs
+Using cpu device
+Traceback (most recent call last):
+  File "/sise/home/wilds/Generative-ShieldPPO/main.py", line 280, in <module>
+    main()
+  File "/sise/home/wilds/Generative-ShieldPPO/main.py", line 272, in main
+    agent.learn(
+  File "/sise/home/wilds/Generative-ShieldPPO/.venv/lib64/python3.9/site-packages/stable_baselines3/ppo/ppo.py", line 311, in learn
+    return super().learn(
+  File "/sise/home/wilds/Generative-ShieldPPO/.venv/lib64/python3.9/site-packages/stable_baselines3/common/on_policy_algorithm.py", line 310, in learn
+    total_timesteps, callback = self._setup_learn(
+  File "/sise/home/wilds/Generative-ShieldPPO/.venv/lib64/python3.9/site-packages/stable_baselines3/common/base_class.py", line 434, in _setup_learn
+    callback = self._init_callback(callback, progress_bar)
+  File "/sise/home/wilds/Generative-ShieldPPO/.venv/lib64/python3.9/site-packages/stable_baselines3/common/base_class.py", line 378, in _init_callback
+    callback = CallbackList([callback, ProgressBarCallback()])
+  File "/sise/home/wilds/Generative-ShieldPPO/.venv/lib64/python3.9/site-packages/stable_baselines3/common/callbacks.py", line 694, in __init__
+    raise ImportError(
+ImportError: You must install tqdm and rich in order to use the progress bar callback. It is included if you install stable-baselines with the extra packages: `pip install stable-baselines3[extra]`

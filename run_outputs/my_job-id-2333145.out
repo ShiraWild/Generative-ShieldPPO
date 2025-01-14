@@ -1,0 +1,8 @@
+SLURM_JOBID=2333145
+SLURM_JOB_NODELIST=cs-cpu-04
+Traceback (most recent call last):
+  File "/sise/home/wilds/Generative-ShieldPPO/main.py", line 30, in <module>
+    from algorithms.shieldPPO_sb3 import *
+  File "/sise/home/wilds/Generative-ShieldPPO/algorithms/shieldPPO_sb3.py", line 1, in <module>
+    from sb3_contrib.common.maskable.policies import MaskableActorCriticPolicy
+ModuleNotFoundError: No module named 'sb3_contrib'

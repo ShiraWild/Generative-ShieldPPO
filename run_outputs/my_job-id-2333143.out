@@ -1,0 +1,6 @@
+SLURM_JOBID=2333143
+SLURM_JOB_NODELIST=cs-cpu-04
+Traceback (most recent call last):
+  File "/sise/home/wilds/Generative-ShieldPPO/main.py", line 7, in <module>
+    from click import progressbar
+ModuleNotFoundError: No module named 'click'
