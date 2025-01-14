@@ -17,10 +17,10 @@ class EnvConfig:
     }
 
     occupancy_grid_config = {
-        "vehicles_count": 10,
+        "vehicles_count": 20,
         "observation": {
             "normalize": False,
-            "vehicles_count": 5,
+            "vehicles_count": 10,
             "type": "OccupancyGrid",
             "features": ["x", "y", "vx", "vy"],
             "features_range": {

@@ -60513,3 +60513,3507 @@ Episode length: 15.40 +/- 17.61
 |    policy_gradient_loss | -0.00054      |
 |    value_loss           | 1.63          |
 -------------------------------------------
+Progress update from timestep 552700: Updated shield, loss is 0.03352780640125275
+Progress update from timestep 552800: Updated shield, loss is 0.04045967385172844
+Eval num_timesteps=552800, episode_reward=14.52 +/- 11.75
+Episode length: 21.00 +/- 15.52
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 21       |
+|    mean_reward     | 14.5     |
+| time/              |          |
+|    total_timesteps | 552800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.75     |
+|    ep_rew_mean     | 3.07     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1382     |
+|    time_elapsed    | 124436   |
+|    total_timesteps | 552800   |
+---------------------------------
+Progress update from timestep 552900: Updated shield, loss is 0.02725282311439514
+Progress update from timestep 553000: Updated shield, loss is 0.03229841589927673
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 553000: Saved shield_loss.csv. 
+Eval num_timesteps=553000, episode_reward=9.78 +/- 13.52
+Episode length: 14.20 +/- 17.98
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 14.2          |
+|    mean_reward          | 9.78          |
+| time/                   |               |
+|    total_timesteps      | 553000        |
+| train/                  |               |
+|    approx_kl            | 1.7191236e-05 |
+|    clip_fraction        | 0.00156       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00529      |
+|    explained_variance   | 0.266         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.634         |
+|    n_updates            | 13820         |
+|    policy_gradient_loss | -7.34e-05     |
+|    value_loss           | 1.79          |
+-------------------------------------------
+Progress update from timestep 553100: Updated shield, loss is 0.026064367964863777
+Progress update from timestep 553200: Updated shield, loss is 0.04283832758665085
+Eval num_timesteps=553200, episode_reward=18.05 +/- 13.60
+Episode length: 26.80 +/- 19.20
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 26.8     |
+|    mean_reward     | 18.1     |
+| time/              |          |
+|    total_timesteps | 553200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.96     |
+|    ep_rew_mean     | 2.46     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1383     |
+|    time_elapsed    | 124523   |
+|    total_timesteps | 553200   |
+---------------------------------
+Progress update from timestep 553300: Updated shield, loss is 0.03587845712900162
+Progress update from timestep 553400: Updated shield, loss is 0.03776586428284645
+Eval num_timesteps=553400, episode_reward=23.39 +/- 12.68
+Episode length: 34.80 +/- 18.63
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 34.8          |
+|    mean_reward          | 23.4          |
+| time/                   |               |
+|    total_timesteps      | 553400        |
+| train/                  |               |
+|    approx_kl            | 0.00017633119 |
+|    clip_fraction        | 0.00915       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0187       |
+|    explained_variance   | 0.268         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.691         |
+|    n_updates            | 13830         |
+|    policy_gradient_loss | -0.00126      |
+|    value_loss           | 1.45          |
+-------------------------------------------
+Progress update from timestep 553500: Updated shield, loss is 0.03001921810209751
+Progress update from timestep 553600: Updated shield, loss is 0.03992321714758873
+Eval num_timesteps=553600, episode_reward=17.65 +/- 14.51
+Episode length: 26.00 +/- 20.12
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 26       |
+|    mean_reward     | 17.6     |
+| time/              |          |
+|    total_timesteps | 553600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.45     |
+|    ep_rew_mean     | 2.81     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1384     |
+|    time_elapsed    | 124609   |
+|    total_timesteps | 553600   |
+---------------------------------
+Progress update from timestep 553700: Updated shield, loss is 0.04280596598982811
+Progress update from timestep 553800: Updated shield, loss is 0.03129959478974342
+Eval num_timesteps=553800, episode_reward=24.54 +/- 13.99
+Episode length: 34.60 +/- 18.86
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 34.6          |
+|    mean_reward          | 24.5          |
+| time/                   |               |
+|    total_timesteps      | 553800        |
+| train/                  |               |
+|    approx_kl            | 0.00020370456 |
+|    clip_fraction        | 0.0058        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00988      |
+|    explained_variance   | 0.167         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.894         |
+|    n_updates            | 13840         |
+|    policy_gradient_loss | -0.000432     |
+|    value_loss           | 1.44          |
+-------------------------------------------
+Progress update from timestep 553900: Updated shield, loss is 0.03592393919825554
+Progress update from timestep 554000: Updated shield, loss is 0.03594133257865906
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 554000: Saved shield_loss.csv. 
+Eval num_timesteps=554000, episode_reward=12.01 +/- 11.50
+Episode length: 18.20 +/- 16.29
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 18.2     |
+|    mean_reward     | 12       |
+| time/              |          |
+|    total_timesteps | 554000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.49     |
+|    ep_rew_mean     | 2.93     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1385     |
+|    time_elapsed    | 124694   |
+|    total_timesteps | 554000   |
+---------------------------------
+Progress update from timestep 554100: Updated shield, loss is 0.04473330080509186
+Progress update from timestep 554200: Updated shield, loss is 0.028073515743017197
+Eval num_timesteps=554200, episode_reward=8.64 +/- 14.03
+Episode length: 12.60 +/- 18.70
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 12.6         |
+|    mean_reward          | 8.64         |
+| time/                   |              |
+|    total_timesteps      | 554200       |
+| train/                  |              |
+|    approx_kl            | 0.0006601034 |
+|    clip_fraction        | 0.00446      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.00491     |
+|    explained_variance   | 0.212        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.64         |
+|    n_updates            | 13850        |
+|    policy_gradient_loss | -0.000471    |
+|    value_loss           | 1.86         |
+------------------------------------------
+Progress update from timestep 554300: Updated shield, loss is 0.03606874495744705
+Progress update from timestep 554400: Updated shield, loss is 0.030450167134404182
+Eval num_timesteps=554400, episode_reward=15.87 +/- 15.28
+Episode length: 23.40 +/- 21.81
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 23.4     |
+|    mean_reward     | 15.9     |
+| time/              |          |
+|    total_timesteps | 554400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.82     |
+|    ep_rew_mean     | 3.16     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1386     |
+|    time_elapsed    | 124779   |
+|    total_timesteps | 554400   |
+---------------------------------
+Progress update from timestep 554500: Updated shield, loss is 0.040466878563165665
+Progress update from timestep 554600: Updated shield, loss is 0.03174924850463867
+Eval num_timesteps=554600, episode_reward=10.04 +/- 12.64
+Episode length: 15.40 +/- 17.97
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 15.4          |
+|    mean_reward          | 10            |
+| time/                   |               |
+|    total_timesteps      | 554600        |
+| train/                  |               |
+|    approx_kl            | 0.00013030728 |
+|    clip_fraction        | 0.00558       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0129       |
+|    explained_variance   | 0.164         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.939         |
+|    n_updates            | 13860         |
+|    policy_gradient_loss | -0.000598     |
+|    value_loss           | 1.55          |
+-------------------------------------------
+Progress update from timestep 554700: Updated shield, loss is 0.02794831246137619
+Progress update from timestep 554800: Updated shield, loss is 0.03279013931751251
+Eval num_timesteps=554800, episode_reward=11.70 +/- 12.48
+Episode length: 17.40 +/- 17.14
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.4     |
+|    mean_reward     | 11.7     |
+| time/              |          |
+|    total_timesteps | 554800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.53     |
+|    ep_rew_mean     | 2.94     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1387     |
+|    time_elapsed    | 124860   |
+|    total_timesteps | 554800   |
+---------------------------------
+Progress update from timestep 554900: Updated shield, loss is 0.036029379814863205
+Progress update from timestep 555000: Updated shield, loss is 0.03782166540622711
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 555000: Saved shield_loss.csv. 
+Eval num_timesteps=555000, episode_reward=15.83 +/- 15.72
+Episode length: 23.20 +/- 21.94
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 23.2          |
+|    mean_reward          | 15.8          |
+| time/                   |               |
+|    total_timesteps      | 555000        |
+| train/                  |               |
+|    approx_kl            | 1.9184652e-06 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00378      |
+|    explained_variance   | 0.244         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.927         |
+|    n_updates            | 13870         |
+|    policy_gradient_loss | -7.01e-05     |
+|    value_loss           | 1.97          |
+-------------------------------------------
+Progress update from timestep 555100: Updated shield, loss is 0.033359140157699585
+Progress update from timestep 555200: Updated shield, loss is 0.03715618699789047
+Eval num_timesteps=555200, episode_reward=9.26 +/- 12.76
+Episode length: 14.00 +/- 18.19
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 14       |
+|    mean_reward     | 9.26     |
+| time/              |          |
+|    total_timesteps | 555200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.21     |
+|    ep_rew_mean     | 2.64     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1388     |
+|    time_elapsed    | 124942   |
+|    total_timesteps | 555200   |
+---------------------------------
+Progress update from timestep 555300: Updated shield, loss is 0.03350277245044708
+Progress update from timestep 555400: Updated shield, loss is 0.030992865562438965
+Eval num_timesteps=555400, episode_reward=17.31 +/- 14.97
+Episode length: 25.00 +/- 20.50
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 25           |
+|    mean_reward          | 17.3         |
+| time/                   |              |
+|    total_timesteps      | 555400       |
+| train/                  |              |
+|    approx_kl            | 0.0022644924 |
+|    clip_fraction        | 0.00714      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0103      |
+|    explained_variance   | 0.115        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.303        |
+|    n_updates            | 13880        |
+|    policy_gradient_loss | -0.000641    |
+|    value_loss           | 1.46         |
+------------------------------------------
+Progress update from timestep 555500: Updated shield, loss is 0.04037262126803398
+Progress update from timestep 555600: Updated shield, loss is 0.032882869243621826
+Eval num_timesteps=555600, episode_reward=22.31 +/- 14.93
+Episode length: 32.60 +/- 21.33
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 32.6     |
+|    mean_reward     | 22.3     |
+| time/              |          |
+|    total_timesteps | 555600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.66     |
+|    ep_rew_mean     | 2.24     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1389     |
+|    time_elapsed    | 125044   |
+|    total_timesteps | 555600   |
+---------------------------------
+Progress update from timestep 555700: Updated shield, loss is 0.025469375774264336
+Progress update from timestep 555800: Updated shield, loss is 0.034619685262441635
+Eval num_timesteps=555800, episode_reward=23.08 +/- 13.98
+Episode length: 33.80 +/- 19.86
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 33.8          |
+|    mean_reward          | 23.1          |
+| time/                   |               |
+|    total_timesteps      | 555800        |
+| train/                  |               |
+|    approx_kl            | 3.1650416e-10 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.001        |
+|    explained_variance   | 0.177         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.557         |
+|    n_updates            | 13890         |
+|    policy_gradient_loss | -2.21e-07     |
+|    value_loss           | 1.79          |
+-------------------------------------------
+Progress update from timestep 555900: Updated shield, loss is 0.03575604781508446
+Progress update from timestep 556000: Updated shield, loss is 0.026605408638715744
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 556000: Saved shield_loss.csv. 
+Eval num_timesteps=556000, episode_reward=24.73 +/- 12.55
+Episode length: 36.00 +/- 17.88
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 36       |
+|    mean_reward     | 24.7     |
+| time/              |          |
+|    total_timesteps | 556000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.32     |
+|    ep_rew_mean     | 2.75     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1390     |
+|    time_elapsed    | 125134   |
+|    total_timesteps | 556000   |
+---------------------------------
+Progress update from timestep 556100: Updated shield, loss is 0.03525149077177048
+Progress update from timestep 556200: Updated shield, loss is 0.033121515065431595
+Eval num_timesteps=556200, episode_reward=22.12 +/- 11.93
+Episode length: 31.40 +/- 15.97
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 31.4          |
+|    mean_reward          | 22.1          |
+| time/                   |               |
+|    total_timesteps      | 556200        |
+| train/                  |               |
+|    approx_kl            | 2.1542484e-05 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00547      |
+|    explained_variance   | 0.408         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.52          |
+|    n_updates            | 13900         |
+|    policy_gradient_loss | -0.000246     |
+|    value_loss           | 1.83          |
+-------------------------------------------
+Progress update from timestep 556300: Updated shield, loss is 0.033478330820798874
+Progress update from timestep 556400: Updated shield, loss is 0.035118505358695984
+Eval num_timesteps=556400, episode_reward=24.39 +/- 13.03
+Episode length: 35.20 +/- 18.40
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 35.2     |
+|    mean_reward     | 24.4     |
+| time/              |          |
+|    total_timesteps | 556400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.31     |
+|    ep_rew_mean     | 2.68     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1391     |
+|    time_elapsed    | 125235   |
+|    total_timesteps | 556400   |
+---------------------------------
+Progress update from timestep 556500: Updated shield, loss is 0.03782881796360016
+Progress update from timestep 556600: Updated shield, loss is 0.03057491034269333
+Eval num_timesteps=556600, episode_reward=25.17 +/- 13.47
+Episode length: 35.80 +/- 18.40
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 35.8          |
+|    mean_reward          | 25.2          |
+| time/                   |               |
+|    total_timesteps      | 556600        |
+| train/                  |               |
+|    approx_kl            | 3.3716064e-05 |
+|    clip_fraction        | 0.00112       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00485      |
+|    explained_variance   | 0.41          |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.631         |
+|    n_updates            | 13910         |
+|    policy_gradient_loss | -0.00026      |
+|    value_loss           | 1.38          |
+-------------------------------------------
+Progress update from timestep 556700: Updated shield, loss is 0.032792769372463226
+Progress update from timestep 556800: Updated shield, loss is 0.031025998294353485
+Eval num_timesteps=556800, episode_reward=17.66 +/- 13.75
+Episode length: 26.40 +/- 19.98
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 26.4     |
+|    mean_reward     | 17.7     |
+| time/              |          |
+|    total_timesteps | 556800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.88     |
+|    ep_rew_mean     | 2.42     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1392     |
+|    time_elapsed    | 125323   |
+|    total_timesteps | 556800   |
+---------------------------------
+Progress update from timestep 556900: Updated shield, loss is 0.025401968508958817
+Progress update from timestep 557000: Updated shield, loss is 0.03328489139676094
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 557000: Saved shield_loss.csv. 
+Eval num_timesteps=557000, episode_reward=16.15 +/- 15.92
+Episode length: 23.40 +/- 21.77
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 23.4          |
+|    mean_reward          | 16.1          |
+| time/                   |               |
+|    total_timesteps      | 557000        |
+| train/                  |               |
+|    approx_kl            | 0.00033965785 |
+|    clip_fraction        | 0.00625       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0124       |
+|    explained_variance   | 0.264         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.696         |
+|    n_updates            | 13920         |
+|    policy_gradient_loss | -0.00111      |
+|    value_loss           | 1.76          |
+-------------------------------------------
+Progress update from timestep 557100: Updated shield, loss is 0.03565283492207527
+Progress update from timestep 557200: Updated shield, loss is 0.03296355530619621
+Eval num_timesteps=557200, episode_reward=28.87 +/- 13.42
+Episode length: 40.80 +/- 18.40
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 40.8     |
+|    mean_reward     | 28.9     |
+| time/              |          |
+|    total_timesteps | 557200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.21     |
+|    ep_rew_mean     | 2.65     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1393     |
+|    time_elapsed    | 125427   |
+|    total_timesteps | 557200   |
+---------------------------------
+Progress update from timestep 557300: Updated shield, loss is 0.03484809398651123
+Progress update from timestep 557400: Updated shield, loss is 0.025023149326443672
+Eval num_timesteps=557400, episode_reward=13.02 +/- 13.23
+Episode length: 19.00 +/- 18.06
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 19            |
+|    mean_reward          | 13            |
+| time/                   |               |
+|    total_timesteps      | 557400        |
+| train/                  |               |
+|    approx_kl            | 7.2471936e-05 |
+|    clip_fraction        | 0.00335       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0131       |
+|    explained_variance   | 0.061         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.41          |
+|    n_updates            | 13930         |
+|    policy_gradient_loss | -0.000329     |
+|    value_loss           | 2.23          |
+-------------------------------------------
+Progress update from timestep 557500: Updated shield, loss is 0.03465912863612175
+Progress update from timestep 557600: Updated shield, loss is 0.026719704270362854
+Eval num_timesteps=557600, episode_reward=22.33 +/- 14.16
+Episode length: 33.20 +/- 20.82
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 33.2     |
+|    mean_reward     | 22.3     |
+| time/              |          |
+|    total_timesteps | 557600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.37     |
+|    ep_rew_mean     | 2.75     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1394     |
+|    time_elapsed    | 125512   |
+|    total_timesteps | 557600   |
+---------------------------------
+Progress update from timestep 557700: Updated shield, loss is 0.037102214992046356
+Progress update from timestep 557800: Updated shield, loss is 0.030298639088869095
+Eval num_timesteps=557800, episode_reward=5.68 +/- 2.30
+Episode length: 9.00 +/- 3.41
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 9             |
+|    mean_reward          | 5.68          |
+| time/                   |               |
+|    total_timesteps      | 557800        |
+| train/                  |               |
+|    approx_kl            | 9.5874784e-05 |
+|    clip_fraction        | 0.00201       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00411      |
+|    explained_variance   | 0.336         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.553         |
+|    n_updates            | 13940         |
+|    policy_gradient_loss | -0.000149     |
+|    value_loss           | 1.3           |
+-------------------------------------------
+Progress update from timestep 557900: Updated shield, loss is 0.026162318885326385
+Progress update from timestep 558000: Updated shield, loss is 0.03294888511300087
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 558000: Saved shield_loss.csv. 
+Eval num_timesteps=558000, episode_reward=16.61 +/- 15.05
+Episode length: 24.20 +/- 21.08
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24.2     |
+|    mean_reward     | 16.6     |
+| time/              |          |
+|    total_timesteps | 558000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.55     |
+|    ep_rew_mean     | 2.96     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1395     |
+|    time_elapsed    | 125582   |
+|    total_timesteps | 558000   |
+---------------------------------
+Progress update from timestep 558100: Updated shield, loss is 0.03364451602101326
+Progress update from timestep 558200: Updated shield, loss is 0.03834514319896698
+Eval num_timesteps=558200, episode_reward=11.76 +/- 12.47
+Episode length: 17.20 +/- 17.13
+----------------------------------------
+| eval/                   |            |
+|    mean_ep_length       | 17.2       |
+|    mean_reward          | 11.8       |
+| time/                   |            |
+|    total_timesteps      | 558200     |
+| train/                  |            |
+|    approx_kl            | 0.00052909 |
+|    clip_fraction        | 0.00446    |
+|    clip_range           | 0.1        |
+|    entropy_loss         | -0.0214    |
+|    explained_variance   | 0.163      |
+|    learning_rate        | 0.0001     |
+|    loss                 | 1.53       |
+|    n_updates            | 13950      |
+|    policy_gradient_loss | -0.000476  |
+|    value_loss           | 2.89       |
+----------------------------------------
+Progress update from timestep 558300: Updated shield, loss is 0.03748173639178276
+Progress update from timestep 558400: Updated shield, loss is 0.03785043582320213
+Eval num_timesteps=558400, episode_reward=29.87 +/- 8.66
+Episode length: 43.60 +/- 12.80
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 43.6     |
+|    mean_reward     | 29.9     |
+| time/              |          |
+|    total_timesteps | 558400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.01     |
+|    ep_rew_mean     | 2.5      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1396     |
+|    time_elapsed    | 125677   |
+|    total_timesteps | 558400   |
+---------------------------------
+Progress update from timestep 558500: Updated shield, loss is 0.029757903888821602
+Progress update from timestep 558600: Updated shield, loss is 0.033395394682884216
+Eval num_timesteps=558600, episode_reward=22.77 +/- 15.75
+Episode length: 32.40 +/- 21.64
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 32.4         |
+|    mean_reward          | 22.8         |
+| time/                   |              |
+|    total_timesteps      | 558600       |
+| train/                  |              |
+|    approx_kl            | 2.557629e-09 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.000933    |
+|    explained_variance   | 0.0672       |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.699        |
+|    n_updates            | 13960        |
+|    policy_gradient_loss | -1.05e-06    |
+|    value_loss           | 1.47         |
+------------------------------------------
+Progress update from timestep 558700: Updated shield, loss is 0.03213702514767647
+Progress update from timestep 558800: Updated shield, loss is 0.04326311871409416
+Eval num_timesteps=558800, episode_reward=17.06 +/- 14.18
+Episode length: 25.60 +/- 20.50
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 25.6     |
+|    mean_reward     | 17.1     |
+| time/              |          |
+|    total_timesteps | 558800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.31     |
+|    ep_rew_mean     | 2        |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1397     |
+|    time_elapsed    | 125785   |
+|    total_timesteps | 558800   |
+---------------------------------
+Progress update from timestep 558900: Updated shield, loss is 0.043803393840789795
+Progress update from timestep 559000: Updated shield, loss is 0.035943079739809036
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 559000: Saved shield_loss.csv. 
+Eval num_timesteps=559000, episode_reward=11.89 +/- 12.04
+Episode length: 17.40 +/- 16.57
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 17.4          |
+|    mean_reward          | 11.9          |
+| time/                   |               |
+|    total_timesteps      | 559000        |
+| train/                  |               |
+|    approx_kl            | 0.00019092273 |
+|    clip_fraction        | 0.00469       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00502      |
+|    explained_variance   | 0.195         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.484         |
+|    n_updates            | 13970         |
+|    policy_gradient_loss | -0.000302     |
+|    value_loss           | 0.993         |
+-------------------------------------------
+Progress update from timestep 559100: Updated shield, loss is 0.033463191241025925
+Progress update from timestep 559200: Updated shield, loss is 0.04750281572341919
+Eval num_timesteps=559200, episode_reward=6.58 +/- 3.44
+Episode length: 10.20 +/- 4.53
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 10.2     |
+|    mean_reward     | 6.58     |
+| time/              |          |
+|    total_timesteps | 559200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.93     |
+|    ep_rew_mean     | 2.43     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1398     |
+|    time_elapsed    | 125858   |
+|    total_timesteps | 559200   |
+---------------------------------
+Progress update from timestep 559300: Updated shield, loss is 0.02565912902355194
+Progress update from timestep 559400: Updated shield, loss is 0.035791028290987015
+Eval num_timesteps=559400, episode_reward=22.65 +/- 15.85
+Episode length: 32.20 +/- 21.80
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 32.2         |
+|    mean_reward          | 22.7         |
+| time/                   |              |
+|    total_timesteps      | 559400       |
+| train/                  |              |
+|    approx_kl            | 0.0012918871 |
+|    clip_fraction        | 0.00201      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.00844     |
+|    explained_variance   | 0.141        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.776        |
+|    n_updates            | 13980        |
+|    policy_gradient_loss | -0.000224    |
+|    value_loss           | 1.42         |
+------------------------------------------
+Progress update from timestep 559500: Updated shield, loss is 0.032204519957304
+Progress update from timestep 559600: Updated shield, loss is 0.028914280235767365
+Eval num_timesteps=559600, episode_reward=15.15 +/- 16.72
+Episode length: 21.80 +/- 23.05
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 21.8     |
+|    mean_reward     | 15.2     |
+| time/              |          |
+|    total_timesteps | 559600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.95     |
+|    ep_rew_mean     | 2.43     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1399     |
+|    time_elapsed    | 125960   |
+|    total_timesteps | 559600   |
+---------------------------------
+Progress update from timestep 559700: Updated shield, loss is 0.034979574382305145
+Progress update from timestep 559800: Updated shield, loss is 0.03948039188981056
+Eval num_timesteps=559800, episode_reward=14.94 +/- 10.87
+Episode length: 21.80 +/- 14.86
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 21.8          |
+|    mean_reward          | 14.9          |
+| time/                   |               |
+|    total_timesteps      | 559800        |
+| train/                  |               |
+|    approx_kl            | 0.00013246982 |
+|    clip_fraction        | 0.00469       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.01         |
+|    explained_variance   | 0.156         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.793         |
+|    n_updates            | 13990         |
+|    policy_gradient_loss | -0.000591     |
+|    value_loss           | 1.53          |
+-------------------------------------------
+Progress update from timestep 559900: Updated shield, loss is 0.032744307070970535
+Progress update from timestep 560000: Updated shield, loss is 0.041218265891075134
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 560000: Saved shield_loss.csv. 
+Eval num_timesteps=560000, episode_reward=10.81 +/- 12.00
+Episode length: 16.40 +/- 17.02
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 16.4     |
+|    mean_reward     | 10.8     |
+| time/              |          |
+|    total_timesteps | 560000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.16     |
+|    ep_rew_mean     | 2.62     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1400     |
+|    time_elapsed    | 126040   |
+|    total_timesteps | 560000   |
+---------------------------------
+Progress update from timestep 560100: Updated shield, loss is 0.035041775554418564
+Progress update from timestep 560200: Updated shield, loss is 0.03609219938516617
+Eval num_timesteps=560200, episode_reward=8.95 +/- 5.04
+Episode length: 13.60 +/- 7.20
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 13.6          |
+|    mean_reward          | 8.95          |
+| time/                   |               |
+|    total_timesteps      | 560200        |
+| train/                  |               |
+|    approx_kl            | 0.00022562001 |
+|    clip_fraction        | 0.00915       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0115       |
+|    explained_variance   | 0.102         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.734         |
+|    n_updates            | 14000         |
+|    policy_gradient_loss | -0.000998     |
+|    value_loss           | 2.02          |
+-------------------------------------------
+Progress update from timestep 560300: Updated shield, loss is 0.04045312479138374
+Progress update from timestep 560400: Updated shield, loss is 0.0343996062874794
+Eval num_timesteps=560400, episode_reward=16.73 +/- 15.56
+Episode length: 24.00 +/- 21.47
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24       |
+|    mean_reward     | 16.7     |
+| time/              |          |
+|    total_timesteps | 560400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.92     |
+|    ep_rew_mean     | 2.41     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1401     |
+|    time_elapsed    | 126113   |
+|    total_timesteps | 560400   |
+---------------------------------
+Progress update from timestep 560500: Updated shield, loss is 0.03852665424346924
+Progress update from timestep 560600: Updated shield, loss is 0.03366694226861
+Eval num_timesteps=560600, episode_reward=11.92 +/- 12.43
+Episode length: 17.60 +/- 17.12
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 17.6          |
+|    mean_reward          | 11.9          |
+| time/                   |               |
+|    total_timesteps      | 560600        |
+| train/                  |               |
+|    approx_kl            | 0.00034499096 |
+|    clip_fraction        | 0.00625       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0102       |
+|    explained_variance   | 0.154         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.559         |
+|    n_updates            | 14010         |
+|    policy_gradient_loss | -0.000616     |
+|    value_loss           | 1.96          |
+-------------------------------------------
+Progress update from timestep 560700: Updated shield, loss is 0.034284889698028564
+Progress update from timestep 560800: Updated shield, loss is 0.03530658781528473
+Eval num_timesteps=560800, episode_reward=23.29 +/- 15.28
+Episode length: 33.00 +/- 21.11
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 33       |
+|    mean_reward     | 23.3     |
+| time/              |          |
+|    total_timesteps | 560800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.69     |
+|    ep_rew_mean     | 3.1      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1402     |
+|    time_elapsed    | 126199   |
+|    total_timesteps | 560800   |
+---------------------------------
+Progress update from timestep 560900: Updated shield, loss is 0.03929585963487625
+Progress update from timestep 561000: Updated shield, loss is 0.031559985131025314
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 561000: Saved shield_loss.csv. 
+Eval num_timesteps=561000, episode_reward=17.18 +/- 15.16
+Episode length: 25.00 +/- 20.63
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 25          |
+|    mean_reward          | 17.2        |
+| time/                   |             |
+|    total_timesteps      | 561000      |
+| train/                  |             |
+|    approx_kl            | 0.001253878 |
+|    clip_fraction        | 0.0127      |
+|    clip_range           | 0.1         |
+|    entropy_loss         | -0.0316     |
+|    explained_variance   | 0.236       |
+|    learning_rate        | 0.0001      |
+|    loss                 | 0.79        |
+|    n_updates            | 14020       |
+|    policy_gradient_loss | -0.0016     |
+|    value_loss           | 2.17        |
+-----------------------------------------
+Progress update from timestep 561100: Updated shield, loss is 0.04017486795783043
+Progress update from timestep 561200: Updated shield, loss is 0.0365653820335865
+Eval num_timesteps=561200, episode_reward=28.97 +/- 12.72
+Episode length: 41.20 +/- 17.60
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 41.2     |
+|    mean_reward     | 29       |
+| time/              |          |
+|    total_timesteps | 561200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.7      |
+|    ep_rew_mean     | 2.97     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1403     |
+|    time_elapsed    | 126300   |
+|    total_timesteps | 561200   |
+---------------------------------
+Progress update from timestep 561300: Updated shield, loss is 0.04019322618842125
+Progress update from timestep 561400: Updated shield, loss is 0.03803699463605881
+Eval num_timesteps=561400, episode_reward=17.82 +/- 15.70
+Episode length: 25.00 +/- 20.84
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 25          |
+|    mean_reward          | 17.8        |
+| time/                   |             |
+|    total_timesteps      | 561400      |
+| train/                  |             |
+|    approx_kl            | 4.34021e-05 |
+|    clip_fraction        | 0.00156     |
+|    clip_range           | 0.1         |
+|    entropy_loss         | -0.00428    |
+|    explained_variance   | 0.113       |
+|    learning_rate        | 0.0001      |
+|    loss                 | 0.753       |
+|    n_updates            | 14030       |
+|    policy_gradient_loss | -0.000143   |
+|    value_loss           | 1.78        |
+-----------------------------------------
+Progress update from timestep 561500: Updated shield, loss is 0.03839513286948204
+Progress update from timestep 561600: Updated shield, loss is 0.03230888769030571
+Eval num_timesteps=561600, episode_reward=16.75 +/- 14.68
+Episode length: 24.80 +/- 20.84
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24.8     |
+|    mean_reward     | 16.8     |
+| time/              |          |
+|    total_timesteps | 561600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.03     |
+|    ep_rew_mean     | 2.51     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1404     |
+|    time_elapsed    | 126383   |
+|    total_timesteps | 561600   |
+---------------------------------
+Progress update from timestep 561700: Updated shield, loss is 0.03683456405997276
+Progress update from timestep 561800: Updated shield, loss is 0.04759981483221054
+Eval num_timesteps=561800, episode_reward=17.97 +/- 14.03
+Episode length: 26.40 +/- 20.03
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 26.4          |
+|    mean_reward          | 18            |
+| time/                   |               |
+|    total_timesteps      | 561800        |
+| train/                  |               |
+|    approx_kl            | 7.8249715e-05 |
+|    clip_fraction        | 0.00335       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00559      |
+|    explained_variance   | 0.254         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.344         |
+|    n_updates            | 14040         |
+|    policy_gradient_loss | -0.000244     |
+|    value_loss           | 1.39          |
+-------------------------------------------
+Progress update from timestep 561900: Updated shield, loss is 0.03379380330443382
+Progress update from timestep 562000: Updated shield, loss is 0.0330624058842659
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 562000: Saved shield_loss.csv. 
+Eval num_timesteps=562000, episode_reward=9.67 +/- 11.94
+Episode length: 15.00 +/- 17.63
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 15       |
+|    mean_reward     | 9.67     |
+| time/              |          |
+|    total_timesteps | 562000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.99     |
+|    ep_rew_mean     | 2.46     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1405     |
+|    time_elapsed    | 126465   |
+|    total_timesteps | 562000   |
+---------------------------------
+Progress update from timestep 562100: Updated shield, loss is 0.035035740584135056
+Progress update from timestep 562200: Updated shield, loss is 0.04284213110804558
+Eval num_timesteps=562200, episode_reward=4.65 +/- 2.04
+Episode length: 7.60 +/- 3.01
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 7.6           |
+|    mean_reward          | 4.65          |
+| time/                   |               |
+|    total_timesteps      | 562200        |
+| train/                  |               |
+|    approx_kl            | 0.00018279036 |
+|    clip_fraction        | 0.00536       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00867      |
+|    explained_variance   | 0.121         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.725         |
+|    n_updates            | 14050         |
+|    policy_gradient_loss | -0.000508     |
+|    value_loss           | 1.16          |
+-------------------------------------------
+Progress update from timestep 562300: Updated shield, loss is 0.03847126290202141
+Progress update from timestep 562400: Updated shield, loss is 0.03947208821773529
+Eval num_timesteps=562400, episode_reward=16.81 +/- 14.46
+Episode length: 24.80 +/- 20.60
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24.8     |
+|    mean_reward     | 16.8     |
+| time/              |          |
+|    total_timesteps | 562400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.93     |
+|    ep_rew_mean     | 2.42     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1406     |
+|    time_elapsed    | 126538   |
+|    total_timesteps | 562400   |
+---------------------------------
+Progress update from timestep 562500: Updated shield, loss is 0.03713148832321167
+Progress update from timestep 562600: Updated shield, loss is 0.04272480681538582
+Eval num_timesteps=562600, episode_reward=23.41 +/- 15.83
+Episode length: 32.60 +/- 21.33
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 32.6          |
+|    mean_reward          | 23.4          |
+| time/                   |               |
+|    total_timesteps      | 562600        |
+| train/                  |               |
+|    approx_kl            | 0.00023668168 |
+|    clip_fraction        | 0.0107        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0109       |
+|    explained_variance   | 0.164         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.457         |
+|    n_updates            | 14060         |
+|    policy_gradient_loss | -0.000657     |
+|    value_loss           | 1.42          |
+-------------------------------------------
+Progress update from timestep 562700: Updated shield, loss is 0.03370208293199539
+Progress update from timestep 562800: Updated shield, loss is 0.036371860653162
+Eval num_timesteps=562800, episode_reward=18.17 +/- 12.54
+Episode length: 27.40 +/- 18.64
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 27.4     |
+|    mean_reward     | 18.2     |
+| time/              |          |
+|    total_timesteps | 562800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.94     |
+|    ep_rew_mean     | 2.44     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1407     |
+|    time_elapsed    | 126628   |
+|    total_timesteps | 562800   |
+---------------------------------
+Progress update from timestep 562900: Updated shield, loss is 0.038923148065805435
+Progress update from timestep 563000: Updated shield, loss is 0.031373925507068634
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 563000: Saved shield_loss.csv. 
+Eval num_timesteps=563000, episode_reward=12.38 +/- 12.28
+Episode length: 18.00 +/- 16.21
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 18            |
+|    mean_reward          | 12.4          |
+| time/                   |               |
+|    total_timesteps      | 563000        |
+| train/                  |               |
+|    approx_kl            | 0.00043738732 |
+|    clip_fraction        | 0.00871       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.018        |
+|    explained_variance   | 0.139         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.805         |
+|    n_updates            | 14070         |
+|    policy_gradient_loss | -0.000776     |
+|    value_loss           | 1.6           |
+-------------------------------------------
+Progress update from timestep 563100: Updated shield, loss is 0.03552861511707306
+Progress update from timestep 563200: Updated shield, loss is 0.032522425055503845
+Eval num_timesteps=563200, episode_reward=19.72 +/- 13.83
+Episode length: 28.00 +/- 18.60
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 28       |
+|    mean_reward     | 19.7     |
+| time/              |          |
+|    total_timesteps | 563200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.71     |
+|    ep_rew_mean     | 2.25     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1408     |
+|    time_elapsed    | 126716   |
+|    total_timesteps | 563200   |
+---------------------------------
+Progress update from timestep 563300: Updated shield, loss is 0.03240096941590309
+Progress update from timestep 563400: Updated shield, loss is 0.04069066047668457
+Eval num_timesteps=563400, episode_reward=12.99 +/- 12.98
+Episode length: 18.60 +/- 17.23
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 18.6         |
+|    mean_reward          | 13           |
+| time/                   |              |
+|    total_timesteps      | 563400       |
+| train/                  |              |
+|    approx_kl            | 0.0002314078 |
+|    clip_fraction        | 0.0109       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0178      |
+|    explained_variance   | 0.088        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.841        |
+|    n_updates            | 14080        |
+|    policy_gradient_loss | -0.000936    |
+|    value_loss           | 1.75         |
+------------------------------------------
+Progress update from timestep 563500: Updated shield, loss is 0.02802962251007557
+Progress update from timestep 563600: Updated shield, loss is 0.033695124089717865
+Eval num_timesteps=563600, episode_reward=27.85 +/- 13.30
+Episode length: 40.60 +/- 18.80
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 40.6     |
+|    mean_reward     | 27.8     |
+| time/              |          |
+|    total_timesteps | 563600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.98     |
+|    ep_rew_mean     | 2.53     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1409     |
+|    time_elapsed    | 126817   |
+|    total_timesteps | 563600   |
+---------------------------------
+Progress update from timestep 563700: Updated shield, loss is 0.03486216068267822
+Progress update from timestep 563800: Updated shield, loss is 0.04168812185525894
+Eval num_timesteps=563800, episode_reward=29.65 +/- 9.66
+Episode length: 43.20 +/- 13.60
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 43.2         |
+|    mean_reward          | 29.7         |
+| time/                   |              |
+|    total_timesteps      | 563800       |
+| train/                  |              |
+|    approx_kl            | 0.0013135031 |
+|    clip_fraction        | 0.0109       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0211      |
+|    explained_variance   | 0.287        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.952        |
+|    n_updates            | 14090        |
+|    policy_gradient_loss | -0.0015      |
+|    value_loss           | 1.54         |
+------------------------------------------
+Progress update from timestep 563900: Updated shield, loss is 0.033963534981012344
+Progress update from timestep 564000: Updated shield, loss is 0.04541467875242233
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 564000: Saved shield_loss.csv. 
+Eval num_timesteps=564000, episode_reward=23.51 +/- 14.80
+Episode length: 33.40 +/- 20.33
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 33.4     |
+|    mean_reward     | 23.5     |
+| time/              |          |
+|    total_timesteps | 564000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.5      |
+|    ep_rew_mean     | 2.83     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1410     |
+|    time_elapsed    | 126907   |
+|    total_timesteps | 564000   |
+---------------------------------
+Progress update from timestep 564100: Updated shield, loss is 0.031813111156225204
+Progress update from timestep 564200: Updated shield, loss is 0.03279826045036316
+Eval num_timesteps=564200, episode_reward=10.63 +/- 12.52
+Episode length: 15.80 +/- 17.19
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 15.8          |
+|    mean_reward          | 10.6          |
+| time/                   |               |
+|    total_timesteps      | 564200        |
+| train/                  |               |
+|    approx_kl            | 0.00022271846 |
+|    clip_fraction        | 0.00871       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0195       |
+|    explained_variance   | 0.273         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.28          |
+|    n_updates            | 14100         |
+|    policy_gradient_loss | -0.00149      |
+|    value_loss           | 1.81          |
+-------------------------------------------
+Progress update from timestep 564300: Updated shield, loss is 0.030437976121902466
+Progress update from timestep 564400: Updated shield, loss is 0.037705760449171066
+Eval num_timesteps=564400, episode_reward=11.64 +/- 12.05
+Episode length: 17.60 +/- 17.12
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.6     |
+|    mean_reward     | 11.6     |
+| time/              |          |
+|    total_timesteps | 564400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.31     |
+|    ep_rew_mean     | 2.71     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1411     |
+|    time_elapsed    | 126989   |
+|    total_timesteps | 564400   |
+---------------------------------
+Progress update from timestep 564500: Updated shield, loss is 0.036080360412597656
+Progress update from timestep 564600: Updated shield, loss is 0.03305276110768318
+Eval num_timesteps=564600, episode_reward=11.78 +/- 12.51
+Episode length: 17.00 +/- 16.59
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 17            |
+|    mean_reward          | 11.8          |
+| time/                   |               |
+|    total_timesteps      | 564600        |
+| train/                  |               |
+|    approx_kl            | 6.7220106e-05 |
+|    clip_fraction        | 0.00134       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00719      |
+|    explained_variance   | 0.172         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.902         |
+|    n_updates            | 14110         |
+|    policy_gradient_loss | -0.000417     |
+|    value_loss           | 2             |
+-------------------------------------------
+Progress update from timestep 564700: Updated shield, loss is 0.03181013464927673
+Progress update from timestep 564800: Updated shield, loss is 0.02760341390967369
+Eval num_timesteps=564800, episode_reward=14.95 +/- 11.71
+Episode length: 22.20 +/- 16.24
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 22.2     |
+|    mean_reward     | 14.9     |
+| time/              |          |
+|    total_timesteps | 564800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 5.26     |
+|    ep_rew_mean     | 3.45     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1412     |
+|    time_elapsed    | 127074   |
+|    total_timesteps | 564800   |
+---------------------------------
+Progress update from timestep 564900: Updated shield, loss is 0.02913505770266056
+Progress update from timestep 565000: Updated shield, loss is 0.031254842877388
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 565000: Saved shield_loss.csv. 
+Eval num_timesteps=565000, episode_reward=26.96 +/- 12.18
+Episode length: 38.20 +/- 16.79
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 38.2          |
+|    mean_reward          | 27            |
+| time/                   |               |
+|    total_timesteps      | 565000        |
+| train/                  |               |
+|    approx_kl            | 1.5864641e-08 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00187      |
+|    explained_variance   | 0.283         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.866         |
+|    n_updates            | 14120         |
+|    policy_gradient_loss | -2.09e-06     |
+|    value_loss           | 2.06          |
+-------------------------------------------
+Progress update from timestep 565100: Updated shield, loss is 0.03195739537477493
+Progress update from timestep 565200: Updated shield, loss is 0.02756880410015583
+Eval num_timesteps=565200, episode_reward=17.20 +/- 15.42
+Episode length: 24.60 +/- 21.26
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24.6     |
+|    mean_reward     | 17.2     |
+| time/              |          |
+|    total_timesteps | 565200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4        |
+|    ep_rew_mean     | 2.44     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1413     |
+|    time_elapsed    | 127168   |
+|    total_timesteps | 565200   |
+---------------------------------
+Progress update from timestep 565300: Updated shield, loss is 0.031147660687565804
+Progress update from timestep 565400: Updated shield, loss is 0.038059771060943604
+Eval num_timesteps=565400, episode_reward=18.54 +/- 14.54
+Episode length: 27.20 +/- 20.17
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 27.2         |
+|    mean_reward          | 18.5         |
+| time/                   |              |
+|    total_timesteps      | 565400       |
+| train/                  |              |
+|    approx_kl            | 0.0006331441 |
+|    clip_fraction        | 0.0154       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0265      |
+|    explained_variance   | 0.156        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.946        |
+|    n_updates            | 14130        |
+|    policy_gradient_loss | -0.00171     |
+|    value_loss           | 1.81         |
+------------------------------------------
+Progress update from timestep 565500: Updated shield, loss is 0.033149637281894684
+Progress update from timestep 565600: Updated shield, loss is 0.03448745980858803
+Eval num_timesteps=565600, episode_reward=16.97 +/- 16.33
+Episode length: 24.00 +/- 21.61
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24       |
+|    mean_reward     | 17       |
+| time/              |          |
+|    total_timesteps | 565600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.77     |
+|    ep_rew_mean     | 3.11     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1414     |
+|    time_elapsed    | 127249   |
+|    total_timesteps | 565600   |
+---------------------------------
+Progress update from timestep 565700: Updated shield, loss is 0.03671844303607941
+Progress update from timestep 565800: Updated shield, loss is 0.03943442553281784
+Eval num_timesteps=565800, episode_reward=18.69 +/- 14.04
+Episode length: 27.00 +/- 19.12
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 27           |
+|    mean_reward          | 18.7         |
+| time/                   |              |
+|    total_timesteps      | 565800       |
+| train/                  |              |
+|    approx_kl            | 0.0004459102 |
+|    clip_fraction        | 0.015        |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0264      |
+|    explained_variance   | 0.223        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 1.45         |
+|    n_updates            | 14140        |
+|    policy_gradient_loss | -0.00183     |
+|    value_loss           | 2.56         |
+------------------------------------------
+Progress update from timestep 565900: Updated shield, loss is 0.03379085659980774
+Progress update from timestep 566000: Updated shield, loss is 0.03411650285124779
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 566000: Saved shield_loss.csv. 
+Eval num_timesteps=566000, episode_reward=9.30 +/- 13.73
+Episode length: 13.60 +/- 18.25
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 13.6     |
+|    mean_reward     | 9.3      |
+| time/              |          |
+|    total_timesteps | 566000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.42     |
+|    ep_rew_mean     | 2.82     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1415     |
+|    time_elapsed    | 127333   |
+|    total_timesteps | 566000   |
+---------------------------------
+Progress update from timestep 566100: Updated shield, loss is 0.034569740295410156
+Progress update from timestep 566200: Updated shield, loss is 0.03355066105723381
+Eval num_timesteps=566200, episode_reward=12.21 +/- 12.53
+Episode length: 17.80 +/- 16.57
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 17.8         |
+|    mean_reward          | 12.2         |
+| time/                   |              |
+|    total_timesteps      | 566200       |
+| train/                  |              |
+|    approx_kl            | 5.243431e-07 |
+|    clip_fraction        | 0            |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.00233     |
+|    explained_variance   | 0.264        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.869        |
+|    n_updates            | 14150        |
+|    policy_gradient_loss | 1.49e-05     |
+|    value_loss           | 1.66         |
+------------------------------------------
+Progress update from timestep 566300: Updated shield, loss is 0.03556321933865547
+Progress update from timestep 566400: Updated shield, loss is 0.04007639363408089
+Eval num_timesteps=566400, episode_reward=17.91 +/- 14.02
+Episode length: 26.00 +/- 19.64
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 26       |
+|    mean_reward     | 17.9     |
+| time/              |          |
+|    total_timesteps | 566400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.18     |
+|    ep_rew_mean     | 2.64     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1416     |
+|    time_elapsed    | 127418   |
+|    total_timesteps | 566400   |
+---------------------------------
+Progress update from timestep 566500: Updated shield, loss is 0.030033394694328308
+Progress update from timestep 566600: Updated shield, loss is 0.03564493730664253
+Eval num_timesteps=566600, episode_reward=13.43 +/- 10.66
+Episode length: 20.60 +/- 15.74
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 20.6          |
+|    mean_reward          | 13.4          |
+| time/                   |               |
+|    total_timesteps      | 566600        |
+| train/                  |               |
+|    approx_kl            | 0.00013310334 |
+|    clip_fraction        | 0.00357       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0135       |
+|    explained_variance   | 0.153         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.25          |
+|    n_updates            | 14160         |
+|    policy_gradient_loss | -0.000594     |
+|    value_loss           | 1.86          |
+-------------------------------------------
+Progress update from timestep 566700: Updated shield, loss is 0.03484378382563591
+Progress update from timestep 566800: Updated shield, loss is 0.03664195165038109
+Eval num_timesteps=566800, episode_reward=11.29 +/- 12.77
+Episode length: 16.40 +/- 17.64
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 16.4     |
+|    mean_reward     | 11.3     |
+| time/              |          |
+|    total_timesteps | 566800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.09     |
+|    ep_rew_mean     | 2.59     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1417     |
+|    time_elapsed    | 127499   |
+|    total_timesteps | 566800   |
+---------------------------------
+Progress update from timestep 566900: Updated shield, loss is 0.03912665694952011
+Progress update from timestep 567000: Updated shield, loss is 0.04258708283305168
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 567000: Saved shield_loss.csv. 
+Eval num_timesteps=567000, episode_reward=3.88 +/- 2.71
+Episode length: 6.40 +/- 3.83
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 6.4          |
+|    mean_reward          | 3.88         |
+| time/                   |              |
+|    total_timesteps      | 567000       |
+| train/                  |              |
+|    approx_kl            | 0.0001549625 |
+|    clip_fraction        | 0.0067       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0142      |
+|    explained_variance   | 0.105        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 1.36         |
+|    n_updates            | 14170        |
+|    policy_gradient_loss | -0.000625    |
+|    value_loss           | 1.83         |
+------------------------------------------
+Progress update from timestep 567100: Updated shield, loss is 0.03259795904159546
+Progress update from timestep 567200: Updated shield, loss is 0.02823678031563759
+Eval num_timesteps=567200, episode_reward=10.65 +/- 13.15
+Episode length: 15.60 +/- 17.43
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 15.6     |
+|    mean_reward     | 10.6     |
+| time/              |          |
+|    total_timesteps | 567200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.09     |
+|    ep_rew_mean     | 2.61     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1418     |
+|    time_elapsed    | 127568   |
+|    total_timesteps | 567200   |
+---------------------------------
+Progress update from timestep 567300: Updated shield, loss is 0.027198702096939087
+Progress update from timestep 567400: Updated shield, loss is 0.028425538912415504
+Eval num_timesteps=567400, episode_reward=8.30 +/- 5.15
+Episode length: 12.60 +/- 7.28
+--------------------------------------------
+| eval/                   |                |
+|    mean_ep_length       | 12.6           |
+|    mean_reward          | 8.3            |
+| time/                   |                |
+|    total_timesteps      | 567400         |
+| train/                  |                |
+|    approx_kl            | 0.000115297924 |
+|    clip_fraction        | 0.00379        |
+|    clip_range           | 0.1            |
+|    entropy_loss         | -0.00714       |
+|    explained_variance   | 0.282          |
+|    learning_rate        | 0.0001         |
+|    loss                 | 0.42           |
+|    n_updates            | 14180          |
+|    policy_gradient_loss | -0.000378      |
+|    value_loss           | 1.56           |
+--------------------------------------------
+Progress update from timestep 567500: Updated shield, loss is 0.032704900950193405
+Progress update from timestep 567600: Updated shield, loss is 0.03519695624709129
+Eval num_timesteps=567600, episode_reward=14.06 +/- 12.32
+Episode length: 21.20 +/- 17.63
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 21.2     |
+|    mean_reward     | 14.1     |
+| time/              |          |
+|    total_timesteps | 567600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.56     |
+|    ep_rew_mean     | 2.89     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1419     |
+|    time_elapsed    | 127644   |
+|    total_timesteps | 567600   |
+---------------------------------
+Progress update from timestep 567700: Updated shield, loss is 0.044865161180496216
+Progress update from timestep 567800: Updated shield, loss is 0.04008568450808525
+Eval num_timesteps=567800, episode_reward=23.17 +/- 14.81
+Episode length: 33.40 +/- 20.39
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 33.4         |
+|    mean_reward          | 23.2         |
+| time/                   |              |
+|    total_timesteps      | 567800       |
+| train/                  |              |
+|    approx_kl            | 0.0010640647 |
+|    clip_fraction        | 0.00759      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.011       |
+|    explained_variance   | 0.114        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.894        |
+|    n_updates            | 14190        |
+|    policy_gradient_loss | -0.000749    |
+|    value_loss           | 1.67         |
+------------------------------------------
+Progress update from timestep 567900: Updated shield, loss is 0.025638451799750328
+Progress update from timestep 568000: Updated shield, loss is 0.029632939025759697
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 568000: Saved shield_loss.csv. 
+Eval num_timesteps=568000, episode_reward=16.85 +/- 15.15
+Episode length: 24.60 +/- 21.16
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 24.6     |
+|    mean_reward     | 16.9     |
+| time/              |          |
+|    total_timesteps | 568000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.44     |
+|    ep_rew_mean     | 2.75     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1420     |
+|    time_elapsed    | 127744   |
+|    total_timesteps | 568000   |
+---------------------------------
+Progress update from timestep 568100: Updated shield, loss is 0.03693654015660286
+Progress update from timestep 568200: Updated shield, loss is 0.036133792251348495
+Eval num_timesteps=568200, episode_reward=11.47 +/- 12.75
+Episode length: 16.60 +/- 16.91
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 16.6          |
+|    mean_reward          | 11.5          |
+| time/                   |               |
+|    total_timesteps      | 568200        |
+| train/                  |               |
+|    approx_kl            | 1.8279005e-05 |
+|    clip_fraction        | 0.000223      |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0077       |
+|    explained_variance   | 0.323         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.831         |
+|    n_updates            | 14200         |
+|    policy_gradient_loss | -0.000156     |
+|    value_loss           | 1.89          |
+-------------------------------------------
+Progress update from timestep 568300: Updated shield, loss is 0.03254372999072075
+Progress update from timestep 568400: Updated shield, loss is 0.028277015313506126
+Eval num_timesteps=568400, episode_reward=23.18 +/- 13.90
+Episode length: 33.80 +/- 19.90
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 33.8     |
+|    mean_reward     | 23.2     |
+| time/              |          |
+|    total_timesteps | 568400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.35     |
+|    ep_rew_mean     | 2.78     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1421     |
+|    time_elapsed    | 127829   |
+|    total_timesteps | 568400   |
+---------------------------------
+Progress update from timestep 568500: Updated shield, loss is 0.03825288638472557
+Progress update from timestep 568600: Updated shield, loss is 0.039732784032821655
+Eval num_timesteps=568600, episode_reward=16.22 +/- 15.86
+Episode length: 23.40 +/- 21.77
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 23.4          |
+|    mean_reward          | 16.2          |
+| time/                   |               |
+|    total_timesteps      | 568600        |
+| train/                  |               |
+|    approx_kl            | 0.00018530435 |
+|    clip_fraction        | 0.00759       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0189       |
+|    explained_variance   | 0.159         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.734         |
+|    n_updates            | 14210         |
+|    policy_gradient_loss | -0.00114      |
+|    value_loss           | 2.22          |
+-------------------------------------------
+Progress update from timestep 568700: Updated shield, loss is 0.04056268557906151
+Progress update from timestep 568800: Updated shield, loss is 0.045141398906707764
+Eval num_timesteps=568800, episode_reward=21.90 +/- 15.87
+Episode length: 31.80 +/- 22.29
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 31.8     |
+|    mean_reward     | 21.9     |
+| time/              |          |
+|    total_timesteps | 568800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.07     |
+|    ep_rew_mean     | 2.56     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1422     |
+|    time_elapsed    | 127930   |
+|    total_timesteps | 568800   |
+---------------------------------
+Progress update from timestep 568900: Updated shield, loss is 0.028058430179953575
+Progress update from timestep 569000: Updated shield, loss is 0.03465506061911583
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 569000: Saved shield_loss.csv. 
+Eval num_timesteps=569000, episode_reward=19.16 +/- 13.93
+Episode length: 27.80 +/- 19.50
+----------------------------------------
+| eval/                   |            |
+|    mean_ep_length       | 27.8       |
+|    mean_reward          | 19.2       |
+| time/                   |            |
+|    total_timesteps      | 569000     |
+| train/                  |            |
+|    approx_kl            | 0.00140175 |
+|    clip_fraction        | 0.0176     |
+|    clip_range           | 0.1        |
+|    entropy_loss         | -0.0248    |
+|    explained_variance   | 0.182      |
+|    learning_rate        | 0.0001     |
+|    loss                 | 1.02       |
+|    n_updates            | 14220      |
+|    policy_gradient_loss | -0.00188   |
+|    value_loss           | 1.58       |
+----------------------------------------
+Progress update from timestep 569100: Updated shield, loss is 0.035682469606399536
+Progress update from timestep 569200: Updated shield, loss is 0.03783109784126282
+Eval num_timesteps=569200, episode_reward=10.13 +/- 12.78
+Episode length: 15.00 +/- 17.58
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 15       |
+|    mean_reward     | 10.1     |
+| time/              |          |
+|    total_timesteps | 569200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.14     |
+|    ep_rew_mean     | 2.59     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1423     |
+|    time_elapsed    | 128021   |
+|    total_timesteps | 569200   |
+---------------------------------
+Progress update from timestep 569300: Updated shield, loss is 0.029700763523578644
+Progress update from timestep 569400: Updated shield, loss is 0.03669505938887596
+Eval num_timesteps=569400, episode_reward=17.63 +/- 15.16
+Episode length: 25.20 +/- 20.31
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 25.2         |
+|    mean_reward          | 17.6         |
+| time/                   |              |
+|    total_timesteps      | 569400       |
+| train/                  |              |
+|    approx_kl            | 0.0001191132 |
+|    clip_fraction        | 0.00625      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0117      |
+|    explained_variance   | 0.355        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.927        |
+|    n_updates            | 14230        |
+|    policy_gradient_loss | -0.000724    |
+|    value_loss           | 1.5          |
+------------------------------------------
+Progress update from timestep 569500: Updated shield, loss is 0.03662729263305664
+Progress update from timestep 569600: Updated shield, loss is 0.048163801431655884
+Eval num_timesteps=569600, episode_reward=11.48 +/- 12.30
+Episode length: 17.20 +/- 17.61
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.2     |
+|    mean_reward     | 11.5     |
+| time/              |          |
+|    total_timesteps | 569600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.28     |
+|    ep_rew_mean     | 2.66     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1424     |
+|    time_elapsed    | 128104   |
+|    total_timesteps | 569600   |
+---------------------------------
+Progress update from timestep 569700: Updated shield, loss is 0.03298149257898331
+Progress update from timestep 569800: Updated shield, loss is 0.03817512467503548
+Eval num_timesteps=569800, episode_reward=15.31 +/- 15.29
+Episode length: 23.00 +/- 22.16
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 23           |
+|    mean_reward          | 15.3         |
+| time/                   |              |
+|    total_timesteps      | 569800       |
+| train/                  |              |
+|    approx_kl            | 0.0012767657 |
+|    clip_fraction        | 0.0127       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0278      |
+|    explained_variance   | 0.22         |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.47         |
+|    n_updates            | 14240        |
+|    policy_gradient_loss | -0.00142     |
+|    value_loss           | 1.47         |
+------------------------------------------
+Progress update from timestep 569900: Updated shield, loss is 0.0449569895863533
+Progress update from timestep 570000: Updated shield, loss is 0.0350305438041687
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 570000: Saved shield_loss.csv. 
+Eval num_timesteps=570000, episode_reward=11.55 +/- 11.08
+Episode length: 17.80 +/- 16.34
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.8     |
+|    mean_reward     | 11.6     |
+| time/              |          |
+|    total_timesteps | 570000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.68     |
+|    ep_rew_mean     | 2.22     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1425     |
+|    time_elapsed    | 128186   |
+|    total_timesteps | 570000   |
+---------------------------------
+Progress update from timestep 570100: Updated shield, loss is 0.0394756905734539
+Progress update from timestep 570200: Updated shield, loss is 0.04279772564768791
+Eval num_timesteps=570200, episode_reward=8.97 +/- 13.89
+Episode length: 13.00 +/- 18.54
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 13            |
+|    mean_reward          | 8.97          |
+| time/                   |               |
+|    total_timesteps      | 570200        |
+| train/                  |               |
+|    approx_kl            | 0.00046312468 |
+|    clip_fraction        | 0.00982       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0116       |
+|    explained_variance   | 0.0895        |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.97          |
+|    n_updates            | 14250         |
+|    policy_gradient_loss | -0.00104      |
+|    value_loss           | 1.9           |
+-------------------------------------------
+Progress update from timestep 570300: Updated shield, loss is 0.03485184907913208
+Progress update from timestep 570400: Updated shield, loss is 0.03334159776568413
+Eval num_timesteps=570400, episode_reward=14.12 +/- 11.84
+Episode length: 21.00 +/- 16.30
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 21       |
+|    mean_reward     | 14.1     |
+| time/              |          |
+|    total_timesteps | 570400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.15     |
+|    ep_rew_mean     | 2.6      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1426     |
+|    time_elapsed    | 128269   |
+|    total_timesteps | 570400   |
+---------------------------------
+Progress update from timestep 570500: Updated shield, loss is 0.039207592606544495
+Progress update from timestep 570600: Updated shield, loss is 0.04788975790143013
+Eval num_timesteps=570600, episode_reward=27.64 +/- 13.13
+Episode length: 40.60 +/- 18.80
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 40.6         |
+|    mean_reward          | 27.6         |
+| time/                   |              |
+|    total_timesteps      | 570600       |
+| train/                  |              |
+|    approx_kl            | 0.0050844173 |
+|    clip_fraction        | 0.00625      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0106      |
+|    explained_variance   | 0.111        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.85         |
+|    n_updates            | 14260        |
+|    policy_gradient_loss | -0.000651    |
+|    value_loss           | 1.27         |
+------------------------------------------
+Progress update from timestep 570700: Updated shield, loss is 0.03835638612508774
+Progress update from timestep 570800: Updated shield, loss is 0.03571575880050659
+Eval num_timesteps=570800, episode_reward=9.72 +/- 12.66
+Episode length: 14.80 +/- 18.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 14.8     |
+|    mean_reward     | 9.72     |
+| time/              |          |
+|    total_timesteps | 570800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.12     |
+|    ep_rew_mean     | 2.66     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1427     |
+|    time_elapsed    | 128369   |
+|    total_timesteps | 570800   |
+---------------------------------
+Progress update from timestep 570900: Updated shield, loss is 0.031870000064373016
+Progress update from timestep 571000: Updated shield, loss is 0.048273056745529175
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 571000: Saved shield_loss.csv. 
+Eval num_timesteps=571000, episode_reward=15.33 +/- 12.38
+Episode length: 22.40 +/- 17.04
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 22.4          |
+|    mean_reward          | 15.3          |
+| time/                   |               |
+|    total_timesteps      | 571000        |
+| train/                  |               |
+|    approx_kl            | 0.00019306011 |
+|    clip_fraction        | 0.0127        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0267       |
+|    explained_variance   | 0.175         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.87          |
+|    n_updates            | 14270         |
+|    policy_gradient_loss | -0.00137      |
+|    value_loss           | 1.7           |
+-------------------------------------------
+Progress update from timestep 571100: Updated shield, loss is 0.04087795689702034
+Progress update from timestep 571200: Updated shield, loss is 0.04183486849069595
+Eval num_timesteps=571200, episode_reward=8.67 +/- 12.91
+Episode length: 13.40 +/- 18.32
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 13.4     |
+|    mean_reward     | 8.67     |
+| time/              |          |
+|    total_timesteps | 571200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.33     |
+|    ep_rew_mean     | 2.76     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1428     |
+|    time_elapsed    | 128464   |
+|    total_timesteps | 571200   |
+---------------------------------
+Progress update from timestep 571300: Updated shield, loss is 0.037525344640016556
+Progress update from timestep 571400: Updated shield, loss is 0.03538522124290466
+Eval num_timesteps=571400, episode_reward=17.05 +/- 14.28
+Episode length: 25.20 +/- 20.31
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 25.2         |
+|    mean_reward          | 17.1         |
+| time/                   |              |
+|    total_timesteps      | 571400       |
+| train/                  |              |
+|    approx_kl            | 0.0001143483 |
+|    clip_fraction        | 0.00402      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0182      |
+|    explained_variance   | 0.144        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 1.11         |
+|    n_updates            | 14280        |
+|    policy_gradient_loss | -0.000314    |
+|    value_loss           | 2.25         |
+------------------------------------------
+Progress update from timestep 571500: Updated shield, loss is 0.03912573680281639
+Progress update from timestep 571600: Updated shield, loss is 0.031948022544384
+Eval num_timesteps=571600, episode_reward=6.56 +/- 6.06
+Episode length: 10.40 +/- 8.40
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 10.4     |
+|    mean_reward     | 6.56     |
+| time/              |          |
+|    total_timesteps | 571600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.48     |
+|    ep_rew_mean     | 2.87     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1429     |
+|    time_elapsed    | 128538   |
+|    total_timesteps | 571600   |
+---------------------------------
+Progress update from timestep 571700: Updated shield, loss is 0.03810505568981171
+Progress update from timestep 571800: Updated shield, loss is 0.04401785135269165
+Eval num_timesteps=571800, episode_reward=11.45 +/- 13.05
+Episode length: 16.40 +/- 17.43
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 16.4          |
+|    mean_reward          | 11.5          |
+| time/                   |               |
+|    total_timesteps      | 571800        |
+| train/                  |               |
+|    approx_kl            | 0.00047117894 |
+|    clip_fraction        | 0.00424       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0127       |
+|    explained_variance   | 0.126         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.33          |
+|    n_updates            | 14290         |
+|    policy_gradient_loss | -0.00102      |
+|    value_loss           | 2.13          |
+-------------------------------------------
+Progress update from timestep 571900: Updated shield, loss is 0.03334915637969971
+Progress update from timestep 572000: Updated shield, loss is 0.026490142568945885
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 572000: Saved shield_loss.csv. 
+Eval num_timesteps=572000, episode_reward=22.07 +/- 16.57
+Episode length: 31.40 +/- 22.80
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 31.4     |
+|    mean_reward     | 22.1     |
+| time/              |          |
+|    total_timesteps | 572000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.92     |
+|    ep_rew_mean     | 2.44     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1430     |
+|    time_elapsed    | 128622   |
+|    total_timesteps | 572000   |
+---------------------------------
+Progress update from timestep 572100: Updated shield, loss is 0.03427766636013985
+Progress update from timestep 572200: Updated shield, loss is 0.03618163615465164
+Eval num_timesteps=572200, episode_reward=25.66 +/- 13.22
+Episode length: 35.80 +/- 17.62
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 35.8          |
+|    mean_reward          | 25.7          |
+| time/                   |               |
+|    total_timesteps      | 572200        |
+| train/                  |               |
+|    approx_kl            | 0.00027692906 |
+|    clip_fraction        | 0.00558       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0101       |
+|    explained_variance   | 0.225         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.658         |
+|    n_updates            | 14300         |
+|    policy_gradient_loss | -0.000676     |
+|    value_loss           | 1.59          |
+-------------------------------------------
+Progress update from timestep 572300: Updated shield, loss is 0.03196133300662041
+Progress update from timestep 572400: Updated shield, loss is 0.03352414071559906
+Eval num_timesteps=572400, episode_reward=11.65 +/- 11.44
+Episode length: 17.40 +/- 16.33
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.4     |
+|    mean_reward     | 11.6     |
+| time/              |          |
+|    total_timesteps | 572400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.35     |
+|    ep_rew_mean     | 2.79     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1431     |
+|    time_elapsed    | 128703   |
+|    total_timesteps | 572400   |
+---------------------------------
+Progress update from timestep 572500: Updated shield, loss is 0.03777700662612915
+Progress update from timestep 572600: Updated shield, loss is 0.029525570571422577
+Eval num_timesteps=572600, episode_reward=22.39 +/- 14.45
+Episode length: 33.20 +/- 20.73
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 33.2         |
+|    mean_reward          | 22.4         |
+| time/                   |              |
+|    total_timesteps      | 572600       |
+| train/                  |              |
+|    approx_kl            | 0.0007375757 |
+|    clip_fraction        | 0.0123       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0229      |
+|    explained_variance   | 0.227        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.952        |
+|    n_updates            | 14310        |
+|    policy_gradient_loss | -0.00133     |
+|    value_loss           | 1.58         |
+------------------------------------------
+Progress update from timestep 572700: Updated shield, loss is 0.032672904431819916
+Progress update from timestep 572800: Updated shield, loss is 0.026420069858431816
+Eval num_timesteps=572800, episode_reward=11.69 +/- 12.69
+Episode length: 17.60 +/- 17.44
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.6     |
+|    mean_reward     | 11.7     |
+| time/              |          |
+|    total_timesteps | 572800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.34     |
+|    ep_rew_mean     | 2.74     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1432     |
+|    time_elapsed    | 128783   |
+|    total_timesteps | 572800   |
+---------------------------------
+Progress update from timestep 572900: Updated shield, loss is 0.03575492277741432
+Progress update from timestep 573000: Updated shield, loss is 0.03627520799636841
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 573000: Saved shield_loss.csv. 
+Eval num_timesteps=573000, episode_reward=12.48 +/- 12.27
+Episode length: 18.00 +/- 16.24
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 18            |
+|    mean_reward          | 12.5          |
+| time/                   |               |
+|    total_timesteps      | 573000        |
+| train/                  |               |
+|    approx_kl            | 0.00018232297 |
+|    clip_fraction        | 0.00781       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0245       |
+|    explained_variance   | 0.312         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.587         |
+|    n_updates            | 14320         |
+|    policy_gradient_loss | -0.00137      |
+|    value_loss           | 1.37          |
+-------------------------------------------
+Progress update from timestep 573100: Updated shield, loss is 0.03267941251397133
+Progress update from timestep 573200: Updated shield, loss is 0.03872675076127052
+Eval num_timesteps=573200, episode_reward=22.74 +/- 15.34
+Episode length: 32.80 +/- 21.10
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 32.8     |
+|    mean_reward     | 22.7     |
+| time/              |          |
+|    total_timesteps | 573200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.32     |
+|    ep_rew_mean     | 2.69     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1433     |
+|    time_elapsed    | 128867   |
+|    total_timesteps | 573200   |
+---------------------------------
+Progress update from timestep 573300: Updated shield, loss is 0.03689711168408394
+Progress update from timestep 573400: Updated shield, loss is 0.03909045085310936
+Eval num_timesteps=573400, episode_reward=14.28 +/- 11.47
+Episode length: 20.60 +/- 15.78
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 20.6          |
+|    mean_reward          | 14.3          |
+| time/                   |               |
+|    total_timesteps      | 573400        |
+| train/                  |               |
+|    approx_kl            | 0.00015467814 |
+|    clip_fraction        | 0.00223       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0158       |
+|    explained_variance   | 0.238         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.73          |
+|    n_updates            | 14330         |
+|    policy_gradient_loss | -0.000645     |
+|    value_loss           | 1.95          |
+-------------------------------------------
+Progress update from timestep 573500: Updated shield, loss is 0.029533956199884415
+Progress update from timestep 573600: Updated shield, loss is 0.03552941977977753
+Eval num_timesteps=573600, episode_reward=25.76 +/- 13.52
+Episode length: 36.40 +/- 18.30
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 36.4     |
+|    mean_reward     | 25.8     |
+| time/              |          |
+|    total_timesteps | 573600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.06     |
+|    ep_rew_mean     | 2.54     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1434     |
+|    time_elapsed    | 128959   |
+|    total_timesteps | 573600   |
+---------------------------------
+Progress update from timestep 573700: Updated shield, loss is 0.02769414149224758
+Progress update from timestep 573800: Updated shield, loss is 0.03809859976172447
+Eval num_timesteps=573800, episode_reward=15.10 +/- 15.82
+Episode length: 22.40 +/- 22.54
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 22.4         |
+|    mean_reward          | 15.1         |
+| time/                   |              |
+|    total_timesteps      | 573800       |
+| train/                  |              |
+|    approx_kl            | 0.0025473926 |
+|    clip_fraction        | 0.0154       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0286      |
+|    explained_variance   | 0.155        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.759        |
+|    n_updates            | 14340        |
+|    policy_gradient_loss | -0.00165     |
+|    value_loss           | 1.64         |
+------------------------------------------
+Progress update from timestep 573900: Updated shield, loss is 0.0452684685587883
+Progress update from timestep 574000: Updated shield, loss is 0.03270091861486435
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 574000: Saved shield_loss.csv. 
+Eval num_timesteps=574000, episode_reward=12.39 +/- 11.70
+Episode length: 18.80 +/- 17.28
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 18.8     |
+|    mean_reward     | 12.4     |
+| time/              |          |
+|    total_timesteps | 574000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.85     |
+|    ep_rew_mean     | 2.38     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1435     |
+|    time_elapsed    | 129041   |
+|    total_timesteps | 574000   |
+---------------------------------
+Progress update from timestep 574100: Updated shield, loss is 0.038524843752384186
+Progress update from timestep 574200: Updated shield, loss is 0.03159579634666443
+Eval num_timesteps=574200, episode_reward=9.78 +/- 13.00
+Episode length: 14.60 +/- 17.86
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 14.6          |
+|    mean_reward          | 9.78          |
+| time/                   |               |
+|    total_timesteps      | 574200        |
+| train/                  |               |
+|    approx_kl            | 0.00030533032 |
+|    clip_fraction        | 0.00781       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0213       |
+|    explained_variance   | 0.124         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.861         |
+|    n_updates            | 14350         |
+|    policy_gradient_loss | -0.000749     |
+|    value_loss           | 1.7           |
+-------------------------------------------
+Progress update from timestep 574300: Updated shield, loss is 0.04501983895897865
+Progress update from timestep 574400: Updated shield, loss is 0.04232263192534447
+Eval num_timesteps=574400, episode_reward=24.13 +/- 12.59
+Episode length: 35.80 +/- 18.03
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 35.8     |
+|    mean_reward     | 24.1     |
+| time/              |          |
+|    total_timesteps | 574400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.47     |
+|    ep_rew_mean     | 2.79     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1436     |
+|    time_elapsed    | 129135   |
+|    total_timesteps | 574400   |
+---------------------------------
+Progress update from timestep 574500: Updated shield, loss is 0.041977543383836746
+Progress update from timestep 574600: Updated shield, loss is 0.03574412316083908
+Eval num_timesteps=574600, episode_reward=10.58 +/- 11.41
+Episode length: 16.20 +/- 16.92
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 16.2         |
+|    mean_reward          | 10.6         |
+| time/                   |              |
+|    total_timesteps      | 574600       |
+| train/                  |              |
+|    approx_kl            | 0.0006926293 |
+|    clip_fraction        | 0.0118       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0239      |
+|    explained_variance   | 0.427        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.513        |
+|    n_updates            | 14360        |
+|    policy_gradient_loss | -0.00125     |
+|    value_loss           | 1.73         |
+------------------------------------------
+Progress update from timestep 574700: Updated shield, loss is 0.0397675558924675
+Progress update from timestep 574800: Updated shield, loss is 0.04468393325805664
+Eval num_timesteps=574800, episode_reward=11.38 +/- 12.20
+Episode length: 16.80 +/- 16.75
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 16.8     |
+|    mean_reward     | 11.4     |
+| time/              |          |
+|    total_timesteps | 574800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.02     |
+|    ep_rew_mean     | 2.51     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1437     |
+|    time_elapsed    | 129219   |
+|    total_timesteps | 574800   |
+---------------------------------
+Progress update from timestep 574900: Updated shield, loss is 0.030571848154067993
+Progress update from timestep 575000: Updated shield, loss is 0.04044392332434654
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 575000: Saved shield_loss.csv. 
+Eval num_timesteps=575000, episode_reward=11.40 +/- 12.13
+Episode length: 16.80 +/- 16.65
+----------------------------------------
+| eval/                   |            |
+|    mean_ep_length       | 16.8       |
+|    mean_reward          | 11.4       |
+| time/                   |            |
+|    total_timesteps      | 575000     |
+| train/                  |            |
+|    approx_kl            | 4.8405e-05 |
+|    clip_fraction        | 0.00179    |
+|    clip_range           | 0.1        |
+|    entropy_loss         | -0.00513   |
+|    explained_variance   | 0.166      |
+|    learning_rate        | 0.0001     |
+|    loss                 | 0.416      |
+|    n_updates            | 14370      |
+|    policy_gradient_loss | -0.000251  |
+|    value_loss           | 2.08       |
+----------------------------------------
+Progress update from timestep 575100: Updated shield, loss is 0.04293791949748993
+Progress update from timestep 575200: Updated shield, loss is 0.04030739888548851
+Eval num_timesteps=575200, episode_reward=17.75 +/- 14.20
+Episode length: 25.80 +/- 19.85
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 25.8     |
+|    mean_reward     | 17.7     |
+| time/              |          |
+|    total_timesteps | 575200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.08     |
+|    ep_rew_mean     | 2.57     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1438     |
+|    time_elapsed    | 129306   |
+|    total_timesteps | 575200   |
+---------------------------------
+Progress update from timestep 575300: Updated shield, loss is 0.03706271946430206
+Progress update from timestep 575400: Updated shield, loss is 0.038572002202272415
+Eval num_timesteps=575400, episode_reward=18.30 +/- 14.21
+Episode length: 26.60 +/- 19.24
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 26.6         |
+|    mean_reward          | 18.3         |
+| time/                   |              |
+|    total_timesteps      | 575400       |
+| train/                  |              |
+|    approx_kl            | 9.233367e-05 |
+|    clip_fraction        | 0.00335      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.00974     |
+|    explained_variance   | 0.265        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.431        |
+|    n_updates            | 14380        |
+|    policy_gradient_loss | -0.000406    |
+|    value_loss           | 2.14         |
+------------------------------------------
+Progress update from timestep 575500: Updated shield, loss is 0.03941939398646355
+Progress update from timestep 575600: Updated shield, loss is 0.03307861089706421
+Eval num_timesteps=575600, episode_reward=28.10 +/- 13.35
+Episode length: 40.60 +/- 18.80
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 40.6     |
+|    mean_reward     | 28.1     |
+| time/              |          |
+|    total_timesteps | 575600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.38     |
+|    ep_rew_mean     | 2.79     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1439     |
+|    time_elapsed    | 129409   |
+|    total_timesteps | 575600   |
+---------------------------------
+Progress update from timestep 575700: Updated shield, loss is 0.043937817215919495
+Progress update from timestep 575800: Updated shield, loss is 0.03807554766535759
+Eval num_timesteps=575800, episode_reward=21.65 +/- 12.41
+Episode length: 31.20 +/- 16.77
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 31.2          |
+|    mean_reward          | 21.6          |
+| time/                   |               |
+|    total_timesteps      | 575800        |
+| train/                  |               |
+|    approx_kl            | 0.00017029078 |
+|    clip_fraction        | 0.0067        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0213       |
+|    explained_variance   | 0.25          |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.776         |
+|    n_updates            | 14390         |
+|    policy_gradient_loss | -0.000567     |
+|    value_loss           | 2.54          |
+-------------------------------------------
+Progress update from timestep 575900: Updated shield, loss is 0.026546187698841095
+Progress update from timestep 576000: Updated shield, loss is 0.03966834768652916
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 576000: Saved shield_loss.csv. 
+Eval num_timesteps=576000, episode_reward=28.72 +/- 12.66
+Episode length: 41.20 +/- 17.60
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 41.2     |
+|    mean_reward     | 28.7     |
+| time/              |          |
+|    total_timesteps | 576000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.86     |
+|    ep_rew_mean     | 3.19     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1440     |
+|    time_elapsed    | 129510   |
+|    total_timesteps | 576000   |
+---------------------------------
+Progress update from timestep 576100: Updated shield, loss is 0.03355276957154274
+Progress update from timestep 576200: Updated shield, loss is 0.03750227019190788
+Eval num_timesteps=576200, episode_reward=29.39 +/- 12.95
+Episode length: 41.20 +/- 17.60
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 41.2          |
+|    mean_reward          | 29.4          |
+| time/                   |               |
+|    total_timesteps      | 576200        |
+| train/                  |               |
+|    approx_kl            | 0.00053443154 |
+|    clip_fraction        | 0.0123        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0165       |
+|    explained_variance   | 0.111         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.998         |
+|    n_updates            | 14400         |
+|    policy_gradient_loss | -0.00178      |
+|    value_loss           | 2.21          |
+-------------------------------------------
+Progress update from timestep 576300: Updated shield, loss is 0.03162844479084015
+Progress update from timestep 576400: Updated shield, loss is 0.04424389824271202
+Eval num_timesteps=576400, episode_reward=22.20 +/- 15.09
+Episode length: 32.60 +/- 21.37
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 32.6     |
+|    mean_reward     | 22.2     |
+| time/              |          |
+|    total_timesteps | 576400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.1      |
+|    ep_rew_mean     | 2.52     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1441     |
+|    time_elapsed    | 129631   |
+|    total_timesteps | 576400   |
+---------------------------------
+Progress update from timestep 576500: Updated shield, loss is 0.04035855457186699
+Progress update from timestep 576600: Updated shield, loss is 0.03761523589491844
+Eval num_timesteps=576600, episode_reward=9.76 +/- 13.58
+Episode length: 14.40 +/- 18.00
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 14.4         |
+|    mean_reward          | 9.76         |
+| time/                   |              |
+|    total_timesteps      | 576600       |
+| train/                  |              |
+|    approx_kl            | 0.0012411879 |
+|    clip_fraction        | 0.00826      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0134      |
+|    explained_variance   | 0.183        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.96         |
+|    n_updates            | 14410        |
+|    policy_gradient_loss | -0.00064     |
+|    value_loss           | 1.52         |
+------------------------------------------
+Progress update from timestep 576700: Updated shield, loss is 0.03772798180580139
+Progress update from timestep 576800: Updated shield, loss is 0.03234046697616577
+Eval num_timesteps=576800, episode_reward=17.95 +/- 15.37
+Episode length: 25.20 +/- 20.37
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 25.2     |
+|    mean_reward     | 17.9     |
+| time/              |          |
+|    total_timesteps | 576800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.36     |
+|    ep_rew_mean     | 2.73     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1442     |
+|    time_elapsed    | 129714   |
+|    total_timesteps | 576800   |
+---------------------------------
+Progress update from timestep 576900: Updated shield, loss is 0.03432178497314453
+Progress update from timestep 577000: Updated shield, loss is 0.045005328953266144
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 577000: Saved shield_loss.csv. 
+Eval num_timesteps=577000, episode_reward=10.71 +/- 11.99
+Episode length: 16.40 +/- 17.65
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 16.4         |
+|    mean_reward          | 10.7         |
+| time/                   |              |
+|    total_timesteps      | 577000       |
+| train/                  |              |
+|    approx_kl            | 0.0002777752 |
+|    clip_fraction        | 0.00737      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.013       |
+|    explained_variance   | 0.155        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.441        |
+|    n_updates            | 14420        |
+|    policy_gradient_loss | -0.000905    |
+|    value_loss           | 2.23         |
+------------------------------------------
+Progress update from timestep 577100: Updated shield, loss is 0.03076954372227192
+Progress update from timestep 577200: Updated shield, loss is 0.036283399909734726
+Eval num_timesteps=577200, episode_reward=14.96 +/- 15.49
+Episode length: 22.60 +/- 22.38
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 22.6     |
+|    mean_reward     | 15       |
+| time/              |          |
+|    total_timesteps | 577200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.29     |
+|    ep_rew_mean     | 2.69     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1443     |
+|    time_elapsed    | 129800   |
+|    total_timesteps | 577200   |
+---------------------------------
+Progress update from timestep 577300: Updated shield, loss is 0.02744932472705841
+Progress update from timestep 577400: Updated shield, loss is 0.028413839638233185
+Eval num_timesteps=577400, episode_reward=10.94 +/- 12.04
+Episode length: 16.60 +/- 17.11
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 16.6          |
+|    mean_reward          | 10.9          |
+| time/                   |               |
+|    total_timesteps      | 577400        |
+| train/                  |               |
+|    approx_kl            | 8.6032305e-05 |
+|    clip_fraction        | 0.00424       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0115       |
+|    explained_variance   | 0.184         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.96          |
+|    n_updates            | 14430         |
+|    policy_gradient_loss | -0.000379     |
+|    value_loss           | 1.54          |
+-------------------------------------------
+Progress update from timestep 577500: Updated shield, loss is 0.030539879575371742
+Progress update from timestep 577600: Updated shield, loss is 0.0373881533741951
+Eval num_timesteps=577600, episode_reward=23.03 +/- 14.49
+Episode length: 33.40 +/- 20.33
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 33.4     |
+|    mean_reward     | 23       |
+| time/              |          |
+|    total_timesteps | 577600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.09     |
+|    ep_rew_mean     | 2.55     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1444     |
+|    time_elapsed    | 129885   |
+|    total_timesteps | 577600   |
+---------------------------------
+Progress update from timestep 577700: Updated shield, loss is 0.034954506903886795
+Progress update from timestep 577800: Updated shield, loss is 0.03511516749858856
+Eval num_timesteps=577800, episode_reward=23.44 +/- 15.00
+Episode length: 33.20 +/- 20.73
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 33.2        |
+|    mean_reward          | 23.4        |
+| time/                   |             |
+|    total_timesteps      | 577800      |
+| train/                  |             |
+|    approx_kl            | 0.001395385 |
+|    clip_fraction        | 0.0134      |
+|    clip_range           | 0.1         |
+|    entropy_loss         | -0.0176     |
+|    explained_variance   | 0.193       |
+|    learning_rate        | 0.0001      |
+|    loss                 | 1.19        |
+|    n_updates            | 14440       |
+|    policy_gradient_loss | -0.00121    |
+|    value_loss           | 1.81        |
+-----------------------------------------
+Progress update from timestep 577900: Updated shield, loss is 0.031313102692365646
+Progress update from timestep 578000: Updated shield, loss is 0.034608885645866394
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 578000: Saved shield_loss.csv. 
+Eval num_timesteps=578000, episode_reward=19.80 +/- 12.86
+Episode length: 29.00 +/- 17.80
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 29       |
+|    mean_reward     | 19.8     |
+| time/              |          |
+|    total_timesteps | 578000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4        |
+|    ep_rew_mean     | 2.48     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1445     |
+|    time_elapsed    | 129985   |
+|    total_timesteps | 578000   |
+---------------------------------
+Progress update from timestep 578100: Updated shield, loss is 0.038282930850982666
+Progress update from timestep 578200: Updated shield, loss is 0.03227105364203453
+Eval num_timesteps=578200, episode_reward=3.85 +/- 1.92
+Episode length: 6.20 +/- 2.64
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 6.2           |
+|    mean_reward          | 3.85          |
+| time/                   |               |
+|    total_timesteps      | 578200        |
+| train/                  |               |
+|    approx_kl            | 0.00032295307 |
+|    clip_fraction        | 0.0114        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.017        |
+|    explained_variance   | 0.239         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.619         |
+|    n_updates            | 14450         |
+|    policy_gradient_loss | -0.00115      |
+|    value_loss           | 1.82          |
+-------------------------------------------
+Progress update from timestep 578300: Updated shield, loss is 0.03299936652183533
+Progress update from timestep 578400: Updated shield, loss is 0.02778026834130287
+Eval num_timesteps=578400, episode_reward=20.65 +/- 11.97
+Episode length: 30.20 +/- 16.55
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 30.2     |
+|    mean_reward     | 20.7     |
+| time/              |          |
+|    total_timesteps | 578400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.98     |
+|    ep_rew_mean     | 2.45     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1446     |
+|    time_elapsed    | 130062   |
+|    total_timesteps | 578400   |
+---------------------------------
+Progress update from timestep 578500: Updated shield, loss is 0.03182876482605934
+Progress update from timestep 578600: Updated shield, loss is 0.038540951907634735
+Eval num_timesteps=578600, episode_reward=17.07 +/- 14.71
+Episode length: 24.80 +/- 20.64
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 24.8          |
+|    mean_reward          | 17.1          |
+| time/                   |               |
+|    total_timesteps      | 578600        |
+| train/                  |               |
+|    approx_kl            | 0.00015738816 |
+|    clip_fraction        | 0.0067        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00971      |
+|    explained_variance   | 0.0488        |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.744         |
+|    n_updates            | 14460         |
+|    policy_gradient_loss | -0.000757     |
+|    value_loss           | 2.18          |
+-------------------------------------------
+Progress update from timestep 578700: Updated shield, loss is 0.03152367100119591
+Progress update from timestep 578800: Updated shield, loss is 0.04109372943639755
+Eval num_timesteps=578800, episode_reward=23.73 +/- 14.17
+Episode length: 34.20 +/- 19.48
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 34.2     |
+|    mean_reward     | 23.7     |
+| time/              |          |
+|    total_timesteps | 578800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.96     |
+|    ep_rew_mean     | 2.44     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1447     |
+|    time_elapsed    | 130169   |
+|    total_timesteps | 578800   |
+---------------------------------
+Progress update from timestep 578900: Updated shield, loss is 0.029783153906464577
+Progress update from timestep 579000: Updated shield, loss is 0.03481738269329071
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 579000: Saved shield_loss.csv. 
+Eval num_timesteps=579000, episode_reward=11.37 +/- 11.79
+Episode length: 17.00 +/- 16.83
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 17           |
+|    mean_reward          | 11.4         |
+| time/                   |              |
+|    total_timesteps      | 579000       |
+| train/                  |              |
+|    approx_kl            | 0.0006831229 |
+|    clip_fraction        | 0.0096       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0208      |
+|    explained_variance   | 0.273        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.883        |
+|    n_updates            | 14470        |
+|    policy_gradient_loss | -0.00102     |
+|    value_loss           | 1.61         |
+------------------------------------------
+Progress update from timestep 579100: Updated shield, loss is 0.045135900378227234
+Progress update from timestep 579200: Updated shield, loss is 0.03692828118801117
+Eval num_timesteps=579200, episode_reward=9.26 +/- 12.69
+Episode length: 14.20 +/- 18.03
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 14.2     |
+|    mean_reward     | 9.26     |
+| time/              |          |
+|    total_timesteps | 579200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.39     |
+|    ep_rew_mean     | 2.8      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1448     |
+|    time_elapsed    | 130255   |
+|    total_timesteps | 579200   |
+---------------------------------
+Progress update from timestep 579300: Updated shield, loss is 0.038504745811223984
+Progress update from timestep 579400: Updated shield, loss is 0.03382707014679909
+Eval num_timesteps=579400, episode_reward=17.07 +/- 14.37
+Episode length: 25.40 +/- 20.29
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 25.4         |
+|    mean_reward          | 17.1         |
+| time/                   |              |
+|    total_timesteps      | 579400       |
+| train/                  |              |
+|    approx_kl            | 0.0009195274 |
+|    clip_fraction        | 0.0112       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0193      |
+|    explained_variance   | 0.151        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.899        |
+|    n_updates            | 14480        |
+|    policy_gradient_loss | -0.0014      |
+|    value_loss           | 1.65         |
+------------------------------------------
+Progress update from timestep 579500: Updated shield, loss is 0.03291609510779381
+Progress update from timestep 579600: Updated shield, loss is 0.03965846449136734
+Eval num_timesteps=579600, episode_reward=18.03 +/- 13.12
+Episode length: 27.00 +/- 18.95
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 27       |
+|    mean_reward     | 18       |
+| time/              |          |
+|    total_timesteps | 579600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.06     |
+|    ep_rew_mean     | 2.59     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1449     |
+|    time_elapsed    | 130343   |
+|    total_timesteps | 579600   |
+---------------------------------
+Progress update from timestep 579700: Updated shield, loss is 0.03914280980825424
+Progress update from timestep 579800: Updated shield, loss is 0.03992985188961029
+Eval num_timesteps=579800, episode_reward=16.41 +/- 15.43
+Episode length: 23.80 +/- 21.64
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 23.8          |
+|    mean_reward          | 16.4          |
+| time/                   |               |
+|    total_timesteps      | 579800        |
+| train/                  |               |
+|    approx_kl            | 0.00013739582 |
+|    clip_fraction        | 0.00112       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00836      |
+|    explained_variance   | 0.278         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.885         |
+|    n_updates            | 14490         |
+|    policy_gradient_loss | -0.000268     |
+|    value_loss           | 1.29          |
+-------------------------------------------
+Progress update from timestep 579900: Updated shield, loss is 0.026680419221520424
+Progress update from timestep 580000: Updated shield, loss is 0.027799710631370544
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 580000: Saved shield_loss.csv. 
+Eval num_timesteps=580000, episode_reward=11.32 +/- 11.18
+Episode length: 17.40 +/- 16.54
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 17.4     |
+|    mean_reward     | 11.3     |
+| time/              |          |
+|    total_timesteps | 580000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.94     |
+|    ep_rew_mean     | 2.52     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1450     |
+|    time_elapsed    | 130430   |
+|    total_timesteps | 580000   |
+---------------------------------
+Progress update from timestep 580100: Updated shield, loss is 0.03342069685459137
+Progress update from timestep 580200: Updated shield, loss is 0.032798390835523605
+Eval num_timesteps=580200, episode_reward=16.32 +/- 15.41
+Episode length: 23.80 +/- 21.55
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 23.8         |
+|    mean_reward          | 16.3         |
+| time/                   |              |
+|    total_timesteps      | 580200       |
+| train/                  |              |
+|    approx_kl            | 0.0002606391 |
+|    clip_fraction        | 0.00469      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.00551     |
+|    explained_variance   | 0.225        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.657        |
+|    n_updates            | 14500        |
+|    policy_gradient_loss | -0.000639    |
+|    value_loss           | 1.51         |
+------------------------------------------
+Progress update from timestep 580300: Updated shield, loss is 0.02175956591963768
+Progress update from timestep 580400: Updated shield, loss is 0.03234558925032616
+Eval num_timesteps=580400, episode_reward=23.28 +/- 15.65
+Episode length: 32.80 +/- 21.22
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 32.8     |
+|    mean_reward     | 23.3     |
+| time/              |          |
+|    total_timesteps | 580400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.28     |
+|    ep_rew_mean     | 2.72     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1451     |
+|    time_elapsed    | 130512   |
+|    total_timesteps | 580400   |
+---------------------------------
+Progress update from timestep 580500: Updated shield, loss is 0.03912196308374405
+Progress update from timestep 580600: Updated shield, loss is 0.03076971508562565
+Eval num_timesteps=580600, episode_reward=21.49 +/- 15.46
+Episode length: 31.80 +/- 22.29
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 31.8          |
+|    mean_reward          | 21.5          |
+| time/                   |               |
+|    total_timesteps      | 580600        |
+| train/                  |               |
+|    approx_kl            | 0.00060331327 |
+|    clip_fraction        | 0.00804       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0138       |
+|    explained_variance   | 0.33          |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.15          |
+|    n_updates            | 14510         |
+|    policy_gradient_loss | -0.000999     |
+|    value_loss           | 1.64          |
+-------------------------------------------
+Progress update from timestep 580700: Updated shield, loss is 0.028115803375840187
+Progress update from timestep 580800: Updated shield, loss is 0.02459401823580265
+Eval num_timesteps=580800, episode_reward=14.36 +/- 10.94
+Episode length: 21.40 +/- 15.41
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 21.4     |
+|    mean_reward     | 14.4     |
+| time/              |          |
+|    total_timesteps | 580800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.62     |
+|    ep_rew_mean     | 3.03     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1452     |
+|    time_elapsed    | 130605   |
+|    total_timesteps | 580800   |
+---------------------------------
+Progress update from timestep 580900: Updated shield, loss is 0.036418795585632324
+Progress update from timestep 581000: Updated shield, loss is 0.03565214201807976
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 581000: Saved shield_loss.csv. 
+Eval num_timesteps=581000, episode_reward=6.36 +/- 2.86
+Episode length: 10.00 +/- 3.95
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 10            |
+|    mean_reward          | 6.36          |
+| time/                   |               |
+|    total_timesteps      | 581000        |
+| train/                  |               |
+|    approx_kl            | 0.00017214507 |
+|    clip_fraction        | 0.00804       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.016        |
+|    explained_variance   | 0.186         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 1.62          |
+|    n_updates            | 14520         |
+|    policy_gradient_loss | -0.000787     |
+|    value_loss           | 2.84          |
+-------------------------------------------
+Progress update from timestep 581100: Updated shield, loss is 0.03542082756757736
+Progress update from timestep 581200: Updated shield, loss is 0.03631604462862015
+Eval num_timesteps=581200, episode_reward=12.71 +/- 11.63
+Episode length: 19.40 +/- 17.05
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 19.4     |
+|    mean_reward     | 12.7     |
+| time/              |          |
+|    total_timesteps | 581200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.24     |
+|    ep_rew_mean     | 2.7      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1453     |
+|    time_elapsed    | 130685   |
+|    total_timesteps | 581200   |
+---------------------------------
+Progress update from timestep 581300: Updated shield, loss is 0.03678581863641739
+Progress update from timestep 581400: Updated shield, loss is 0.03458855673670769
+Eval num_timesteps=581400, episode_reward=21.94 +/- 14.90
+Episode length: 32.60 +/- 21.31
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 32.6          |
+|    mean_reward          | 21.9          |
+| time/                   |               |
+|    total_timesteps      | 581400        |
+| train/                  |               |
+|    approx_kl            | 0.00020529001 |
+|    clip_fraction        | 0.00246       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.00259      |
+|    explained_variance   | 0.193         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.44          |
+|    n_updates            | 14530         |
+|    policy_gradient_loss | -0.000254     |
+|    value_loss           | 1.55          |
+-------------------------------------------
+Progress update from timestep 581500: Updated shield, loss is 0.03430693969130516
+Progress update from timestep 581600: Updated shield, loss is 0.033972907811403275
+Eval num_timesteps=581600, episode_reward=16.27 +/- 15.35
+Episode length: 23.60 +/- 21.59
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 23.6     |
+|    mean_reward     | 16.3     |
+| time/              |          |
+|    total_timesteps | 581600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.52     |
+|    ep_rew_mean     | 2.12     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1454     |
+|    time_elapsed    | 130773   |
+|    total_timesteps | 581600   |
+---------------------------------
+Progress update from timestep 581700: Updated shield, loss is 0.04161958768963814
+Progress update from timestep 581800: Updated shield, loss is 0.03815057873725891
+Eval num_timesteps=581800, episode_reward=16.93 +/- 14.85
+Episode length: 24.80 +/- 20.69
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 24.8          |
+|    mean_reward          | 16.9          |
+| time/                   |               |
+|    total_timesteps      | 581800        |
+| train/                  |               |
+|    approx_kl            | 0.00076131645 |
+|    clip_fraction        | 0.0118        |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0333       |
+|    explained_variance   | 0.275         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.578         |
+|    n_updates            | 14540         |
+|    policy_gradient_loss | -0.00125      |
+|    value_loss           | 1.26          |
+-------------------------------------------
+Progress update from timestep 581900: Updated shield, loss is 0.029569197446107864
+Progress update from timestep 582000: Updated shield, loss is 0.028734073042869568
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 582000: Saved shield_loss.csv. 
+Eval num_timesteps=582000, episode_reward=10.12 +/- 12.24
+Episode length: 15.60 +/- 17.30
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 15.6     |
+|    mean_reward     | 10.1     |
+| time/              |          |
+|    total_timesteps | 582000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.22     |
+|    ep_rew_mean     | 2.6      |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1455     |
+|    time_elapsed    | 130856   |
+|    total_timesteps | 582000   |
+---------------------------------
+Progress update from timestep 582100: Updated shield, loss is 0.03289476037025452
+Progress update from timestep 582200: Updated shield, loss is 0.034121736884117126
+Eval num_timesteps=582200, episode_reward=24.05 +/- 14.58
+Episode length: 34.20 +/- 19.92
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 34.2         |
+|    mean_reward          | 24.1         |
+| time/                   |              |
+|    total_timesteps      | 582200       |
+| train/                  |              |
+|    approx_kl            | 0.0004742444 |
+|    clip_fraction        | 0.0129       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0228      |
+|    explained_variance   | 0.139        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.698        |
+|    n_updates            | 14550        |
+|    policy_gradient_loss | -0.00107     |
+|    value_loss           | 1.98         |
+------------------------------------------
+Progress update from timestep 582300: Updated shield, loss is 0.03926903009414673
+Progress update from timestep 582400: Updated shield, loss is 0.03828040510416031
+Eval num_timesteps=582400, episode_reward=15.61 +/- 15.43
+Episode length: 23.20 +/- 21.90
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 23.2     |
+|    mean_reward     | 15.6     |
+| time/              |          |
+|    total_timesteps | 582400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.83     |
+|    ep_rew_mean     | 2.37     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1456     |
+|    time_elapsed    | 130944   |
+|    total_timesteps | 582400   |
+---------------------------------
+Progress update from timestep 582500: Updated shield, loss is 0.03732435777783394
+Progress update from timestep 582600: Updated shield, loss is 0.03560413047671318
+Eval num_timesteps=582600, episode_reward=15.62 +/- 15.44
+Episode length: 23.20 +/- 21.92
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 23.2        |
+|    mean_reward          | 15.6        |
+| time/                   |             |
+|    total_timesteps      | 582600      |
+| train/                  |             |
+|    approx_kl            | 0.001996962 |
+|    clip_fraction        | 0.015       |
+|    clip_range           | 0.1         |
+|    entropy_loss         | -0.0183     |
+|    explained_variance   | 0.21        |
+|    learning_rate        | 0.0001      |
+|    loss                 | 0.505       |
+|    n_updates            | 14560       |
+|    policy_gradient_loss | -0.00159    |
+|    value_loss           | 1.3         |
+-----------------------------------------
+Progress update from timestep 582700: Updated shield, loss is 0.04127547889947891
+Progress update from timestep 582800: Updated shield, loss is 0.036066874861717224
+Eval num_timesteps=582800, episode_reward=24.65 +/- 11.07
+Episode length: 36.80 +/- 16.61
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 36.8     |
+|    mean_reward     | 24.6     |
+| time/              |          |
+|    total_timesteps | 582800   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.94     |
+|    ep_rew_mean     | 2.45     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1457     |
+|    time_elapsed    | 131031   |
+|    total_timesteps | 582800   |
+---------------------------------
+Progress update from timestep 582900: Updated shield, loss is 0.03840838745236397
+Progress update from timestep 583000: Updated shield, loss is 0.04196967929601669
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 583000: Saved shield_loss.csv. 
+Eval num_timesteps=583000, episode_reward=18.17 +/- 15.05
+Episode length: 25.60 +/- 20.42
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 25.6         |
+|    mean_reward          | 18.2         |
+| time/                   |              |
+|    total_timesteps      | 583000       |
+| train/                  |              |
+|    approx_kl            | 0.0006510355 |
+|    clip_fraction        | 0.0228       |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0362      |
+|    explained_variance   | 0.0893       |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.641        |
+|    n_updates            | 14570        |
+|    policy_gradient_loss | -0.00158     |
+|    value_loss           | 1.68         |
+------------------------------------------
+Progress update from timestep 583100: Updated shield, loss is 0.0352364107966423
+Progress update from timestep 583200: Updated shield, loss is 0.036616001278162
+Eval num_timesteps=583200, episode_reward=17.28 +/- 13.89
+Episode length: 25.80 +/- 20.12
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 25.8     |
+|    mean_reward     | 17.3     |
+| time/              |          |
+|    total_timesteps | 583200   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.07     |
+|    ep_rew_mean     | 2.54     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1458     |
+|    time_elapsed    | 131116   |
+|    total_timesteps | 583200   |
+---------------------------------
+Progress update from timestep 583300: Updated shield, loss is 0.03734284266829491
+Progress update from timestep 583400: Updated shield, loss is 0.037477556616067886
+Eval num_timesteps=583400, episode_reward=11.88 +/- 12.39
+Episode length: 17.60 +/- 17.05
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 17.6          |
+|    mean_reward          | 11.9          |
+| time/                   |               |
+|    total_timesteps      | 583400        |
+| train/                  |               |
+|    approx_kl            | 3.4625764e-11 |
+|    clip_fraction        | 0             |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.000317     |
+|    explained_variance   | 0.177         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.633         |
+|    n_updates            | 14580         |
+|    policy_gradient_loss | -3.9e-07      |
+|    value_loss           | 1.37          |
+-------------------------------------------
+Progress update from timestep 583500: Updated shield, loss is 0.03691205009818077
+Progress update from timestep 583600: Updated shield, loss is 0.03160284087061882
+Eval num_timesteps=583600, episode_reward=27.85 +/- 9.57
+Episode length: 39.80 +/- 12.59
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 39.8     |
+|    mean_reward     | 27.8     |
+| time/              |          |
+|    total_timesteps | 583600   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.89     |
+|    ep_rew_mean     | 2.43     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1459     |
+|    time_elapsed    | 131207   |
+|    total_timesteps | 583600   |
+---------------------------------
+Progress update from timestep 583700: Updated shield, loss is 0.038658685982227325
+Progress update from timestep 583800: Updated shield, loss is 0.045605555176734924
+Eval num_timesteps=583800, episode_reward=11.77 +/- 12.83
+Episode length: 17.00 +/- 17.04
+-------------------------------------------
+| eval/                   |               |
+|    mean_ep_length       | 17            |
+|    mean_reward          | 11.8          |
+| time/                   |               |
+|    total_timesteps      | 583800        |
+| train/                  |               |
+|    approx_kl            | 0.00032125035 |
+|    clip_fraction        | 0.00893       |
+|    clip_range           | 0.1           |
+|    entropy_loss         | -0.0128       |
+|    explained_variance   | 0.263         |
+|    learning_rate        | 0.0001        |
+|    loss                 | 0.602         |
+|    n_updates            | 14590         |
+|    policy_gradient_loss | -0.00113      |
+|    value_loss           | 1.76          |
+-------------------------------------------
+Progress update from timestep 583900: Updated shield, loss is 0.031152190640568733
+Progress update from timestep 584000: Updated shield, loss is 0.03430505841970444
+Loss log saved to models/ShieldPPO_run/logs/shield_loss.csv
+Progress update from timestep 584000: Saved shield_loss.csv. 
+Eval num_timesteps=584000, episode_reward=26.69 +/- 11.36
+Episode length: 37.80 +/- 14.95
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 37.8     |
+|    mean_reward     | 26.7     |
+| time/              |          |
+|    total_timesteps | 584000   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 3.96     |
+|    ep_rew_mean     | 2.52     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1460     |
+|    time_elapsed    | 131317   |
+|    total_timesteps | 584000   |
+---------------------------------
+Progress update from timestep 584100: Updated shield, loss is 0.029265867546200752
+Progress update from timestep 584200: Updated shield, loss is 0.03730841353535652
+Eval num_timesteps=584200, episode_reward=4.07 +/- 2.00
+Episode length: 6.80 +/- 2.93
+------------------------------------------
+| eval/                   |              |
+|    mean_ep_length       | 6.8          |
+|    mean_reward          | 4.07         |
+| time/                   |              |
+|    total_timesteps      | 584200       |
+| train/                  |              |
+|    approx_kl            | 7.534846e-05 |
+|    clip_fraction        | 0.00491      |
+|    clip_range           | 0.1          |
+|    entropy_loss         | -0.0104      |
+|    explained_variance   | 0.146        |
+|    learning_rate        | 0.0001       |
+|    loss                 | 0.441        |
+|    n_updates            | 14600        |
+|    policy_gradient_loss | -0.000848    |
+|    value_loss           | 1.49         |
+------------------------------------------
+Progress update from timestep 584300: Updated shield, loss is 0.04555678740143776
+Progress update from timestep 584400: Updated shield, loss is 0.029551511630415916
+Eval num_timesteps=584400, episode_reward=22.18 +/- 15.58
+Episode length: 32.20 +/- 21.91
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 32.2     |
+|    mean_reward     | 22.2     |
+| time/              |          |
+|    total_timesteps | 584400   |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 4.17     |
+|    ep_rew_mean     | 2.58     |
+| time/              |          |
+|    fps             | 4        |
+|    iterations      | 1461     |
+|    time_elapsed    | 131405   |
+|    total_timesteps | 584400   |
+---------------------------------
+Progress update from timestep 584500: Updated shield, loss is 0.03598250448703766
+Progress update from timestep 584600: Updated shield, loss is 0.04092274233698845
+Eval num_timesteps=584600, episode_reward=14.20 +/- 15.64
+Episode length: 21.80 +/- 23.03
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 21.8        |
+|    mean_reward          | 14.2        |
+| time/                   |             |
+|    total_timesteps      | 584600      |
+| train/                  |             |
+|    approx_kl            | 0.001577766 |
+|    clip_fraction        | 0.0103      |
+|    clip_range           | 0.1         |
+|    entropy_loss         | -0.0185     |
+|    explained_variance   | 0.183       |
+|    learning_rate        | 0.0001      |
+|    loss                 | 1.16        |
+|    n_updates            | 14610       |
+|    policy_gradient_loss | -0.00126    |
+|    value_loss           | 2.09        |
+-----------------------------------------
